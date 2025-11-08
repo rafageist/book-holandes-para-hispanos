@@ -75,7 +75,7 @@ jobs:
 
             while IFS= read -r f; do
               if [ -f "$f" ]; then
-                echo "\n\n<!-- Source: $f -->\n\n" >> "$COMBINED"
+                printf '\n\n<!-- Source: %s -->\n\n' "$f" >> "$COMBINED"
                 python strip_md.py "$f" >> "$COMBINED"
               else
                 echo "Warning: listed file '$f' not found" >&2
