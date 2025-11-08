@@ -36,24 +36,24 @@ jobs:
             if [ -f "$f" ]; then
               echo "\n\n<!-- Source: $f -->\n\n" >> combined.md
               # strip leading YAML frontmatter if present, then remove audio/media lines
-              python - "$f" >> combined.md <<'PY'
-          import sys
-          import re
-          from pathlib import Path
+              python -c '
+              import sys
+              import re
+              from pathlib import Path
 
-          path = Path(sys.argv[1])
-          text = path.read_text(encoding="utf-8")
+              path = Path(sys.argv[1])
+              text = path.read_text(encoding="utf-8")
 
-          # Remove YAML front matter if present
-          if text.startswith("---"):
-              text = re.sub(r"^---\r?\n.*?\r?\n---\r?\n?", "", text, count=1, flags=re.S)
+              if text.startswith("---"):
+                  text = re.sub(r"^---\r?\n.*?\r?\n---\r?\n?", "", text, count=1, flags=re.S)
 
-          pattern = re.compile(r"(audio|\.mp3|\.mp4|\.wav|\.ogg|\.m4a)", re.IGNORECASE)
-          for line in text.splitlines():
-              if pattern.search(line):
-                  continue
-              print(line)
-PY
+              pattern = re.compile(r"(audio|\.mp3|\.mp4|\.wav|\.ogg|\.m4a)", re.IGNORECASE)
+
+              for line in text.splitlines():
+                  if pattern.search(line):
+                      continue
+                  print(line)
+              ' "$f" >> combined.md
             else
               echo "Warning: listed file '$f' not found" >&2
             fi
