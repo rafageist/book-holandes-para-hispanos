@@ -48,6 +48,19 @@ Practica: escribe cada par tal como lo pronuncias, luego verifica la ortografia 
 
 Incluye estas palabras en el inventario semanal y combinalas con los colores y frutas para crear frases completas.
 
+## Profesiones express
+
+| Holandes | Español | Ejemplo |
+|----------|---------|---------|
+| `de docent / de leraar` | docente | `Ik ben docent Nederlands.` |
+| `de verpleegkundige` | enfermero/a | `Zij werkt als verpleegkundige.` |
+| `de bakker` | panadero/a | `Mijn broer is bakker.` |
+| `de chauffeur` | chofer | `Hij is chauffeur in Amsterdam.` |
+| `de programmeur` | programador | `Ik ben programmeur en werk thuis.` |
+| `de student` | estudiante | `Ik ben student en ik studeer Nederlands.` |
+
+Practica decir `Ik ben ...` + profesion frente al espejo. Presenta tu oficio con confianza, incluso si estas buscando trabajo (`Ik zoek werk als ...`).
+
 ## Colores (de kleuren)
 
 | Color | Holandes | Pronunciacion rapida |

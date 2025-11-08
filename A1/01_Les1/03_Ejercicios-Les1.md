@@ -5,7 +5,7 @@ level: A1
 
 ## Calentamiento diario (10 minutos)
 
-1. **Lectura guiada**: repasa un fragmento del transcript (Partes 1-5) y subraya cada vocal doble.
+1. **Lectura guiada**: relee un fragmento de la leccion (Partes 1-5) y subraya cada vocal doble.
 2. **Repeticion**: di cada palabra 5 veces, marcando consonantes finales (`pop`, `bos`, `root`).
 3. **Registro flash**: dedica 30 segundos a repetir y escribir pares (`man/maan`, `bos/boos/baas`). Anota por escrito las diferencias que detectes.
 
@@ -37,9 +37,23 @@ Inspirado en la tarea oficial:
 
 ## Colores y frutas en accion
 
-1. Describe tres objetos cercanos usando color + sustantivo (`De tafel es bruin`, `Ik heb een groene tas`).
-2. Escribe tu lista de compra con cinco frutas, indicando singular y plural (`2x de bananen`, `1x de watermeloen`).
-3. Redacta dos frases comparando tonos claro/oscuro (`Ik draag licht blauw vandaag`, `Ik zie een donker groen bos`).
+1. Describe tres objetos cercanos usando color + sustantivo (De tafel es bruin, Ik heb een groene tas).
+2. Escribe tu lista de compra con cinco frutas, indicando singular y plural (2x de bananen, 1x de watermeloen).
+3. Redacta dos frases comparando tonos claro/oscuro (Ik draag licht blauw vandaag, Ik zie un donker groen bos).
+
+## Lectura escrita: "Onderweg"
+
+1. Copia cuatro versos de la cancion y marca las combinaciones de vocales (AA, EE, OO, UI).
+2. Escribe una traduccion libre debajo de cada verso.
+3. Identifica dos verbos y reescribe las frases cambiando el sujeto (Wij zijn onderweg, Jij wilt...).
+4. Redacta una reflexion en español de tres lineas donde conectes la letra con tu proceso de aprendizaje.
+
+## Practica en tu vida diaria
+
+1. **Inventario visible:** pega cinco tarjetas (espejo, nevera, laptop, agenda, puerta). Lee en voz alta y forma una frase breve.
+2. **Profesiones lightning:** practica Hallo, ik ben ... + profesion y Ik werk in .... Cambia cada dia.
+3. **Micro diarios:** antes de dormir escribe dos oraciones (Vandaag oefen ik de OE, Morgen koop ik fruit).
+4. **Quizlet + papel:** transcribe lo que aprendes en apps a tu cuaderno para poder estudiarlo sin pantalla.
 
 ## Mini dialogos
 
@@ -62,5 +76,6 @@ Variante con colores o frutas (`Ik koop rode appels`, `Hij drinkt een gele smoot
 - [ ] Actualice mi inventario con 5 palabras nuevas.
 - [ ] Use tres colores y tres frutas en oraciones completas.
 - [ ] Practique el dialogo de cortesia (alstublieft / dank je / graag gedaan).
+
 
 

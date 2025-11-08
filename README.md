@@ -3,7 +3,7 @@
 Este repositorio contiene el material en Markdown para el curso A1 de holandés dirigido a hispanohablantes. Está organizado como un vault pensado para Obsidian (o cualquier editor de Markdown). A continuación la estructura principal actualizada:
 
 - `A1/` — Carpeta principal del nivel A1 con subcarpetas por lección y módulos (por ejemplo `01_Les1/`, `02_Les2/`, `Pronunciacion/`, `Vocabulario/`, `Gramatica/`, `Ejercicios/`, `RecursosVisuales/`).
-- `A1/processed_transcripts.txt` — Registro interno de fuentes procesadas (uso operativo). No contiene rutas a archivos multimedia en el repositorio.
+- `A1/processed_fuentes.txt` — Registro interno de fuentes procesadas (uso operativo). No contiene rutas a archivos multimedia en el repositorio.
 - `A1_old/` — (si existe) copia antigua de trabajo — conservar hasta verificar la migración.
 
 Objetivo
@@ -18,7 +18,7 @@ Cómo usar
 
 Buenas prácticas
 
-- Mantén `A1/processed_transcripts.txt` actualizado cuando proceses nuevas fuentes de clase (registro operativo).  
+- Mantén `A1/processed_fuentes.txt` actualizado cuando proceses nuevas fuentes de clase (registro operativo).  
 - No borrar archivos de trabajo hasta verificar backups/exportaciones.  
 - Prefiere editar las lecciones dentro de `A1/`.
 

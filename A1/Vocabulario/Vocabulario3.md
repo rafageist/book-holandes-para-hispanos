@@ -6,7 +6,7 @@ Este bloque acompaña las lecciones de familia, planificación y metas profesion
 
 | Holandés | Español | Nota |
 |----------|---------|------|
-| `de docent / de leraar` | profesor/a | `docent` es más formal (educación superior). |
+| `de docent / de leraar` | docente | `docent` es más formal (educación superior). |
 | `de student` | estudiante | Masculino y femenino. |
 | `de verpleegkundige` | enfermero/a | Pronuncia `vër-pleijs-kún-de-gue`. |
 | `de arts` / `de dokter` | médico | `arts` se usa en contextos formales. |

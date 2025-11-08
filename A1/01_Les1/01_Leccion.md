@@ -63,11 +63,37 @@ La R suele pronunciarse como en "raton". Segun la region puede suavizarse, pero 
 
 1. **Lectura activa**: repasa la guia escrita correspondiente (Partes 1-5) y anota cada nueva regla en tu cuaderno.
 2. **Repeticion**: di cada palabra cinco veces y marca en tu lista si mantienes las consonantes finales.
-3. **Escritura fonetica**: copia la palabra tal como la pronuncias (`stick`, `duur`, `bos`). Esto te ayudara a fijar los sonidos.
-4. **Contraste**: alterna pares minimos (`bos/baas/boos`, `root/groot`) y marca cual es largo o corto.
-5. **Autoevaluacion**: usa la pauta "medir es saber". Cada semana revisa tu lista para comprobar cuantas palabras dominas (>80% es el objetivo mencionado en clase).
+  3. **Escritura fonetica**: copia la palabra tal como la pronuncias (`stick`, `duur`, `bos`). Esto te ayudara a fijar los sonidos.
+  4. **Contraste**: alterna pares minimos (`bos/baas/boos`, `root/groot`) y marca cual es largo o corto.
+  5. **Autoevaluacion**: usa la pauta "medir es saber". Cada semana revisa tu lista para comprobar cuantas palabras dominas (>80% es el objetivo mencionado en clase).
 
-### Ejemplos guiados
+## Notas culturales sobre acentos
+
+- Aunque el pais es pequeño, hay muchos acentos. En Haarlem (Holanda Septentrional) se considera el holandes “estandar”; en Belgica las consonantes son mas suaves y la `R` se pronuncia casi como en español.  
+- En Curazao, Aruba y Bonaire el idioma mezcla matices del papiamento, por lo que escuchar distintos acentos ayuda a no depender de uno solo.  
+- Practica la `R` de "raton" y la `G` aspirada antes de experimentar con variantes regionales; domina primero el sonido claro y despues ajustalo al acento local.
+
+## Lectura guiada: Cancion "Onderweg"
+
+La clase usa la letra de **“Onderweg”** (Abel) como lectura motivacional. En vez de escucharla, trabaja su texto en tres pasos:
+
+1. Copia cuatro versos que contengan diptongos (`ee`, `oo`, `ui`). Marca las combinaciones y vuelve a las reglas de la seccion de vocales.  
+2. Escribe una traduccion libre en español y explica que emocion o imagen te provoca cada linea.  
+3. Localiza al menos dos verbos (`ik wil`, `ik ben`) y crea frases propias con el mismo tiempo verbal.  
+4. Cierra con un mensaje personal inspirado en la cancion: `Ik ga onderweg naar ...` + una frase en español donde describas la meta.
+
+> **Tip:** agrega esta actividad a tu rutina semanal. Cada vez que repases vocales largas, lee la letra y confirma que sigues aplicando la regla de una consonante (larga) vs dos consonantes (corta).
+
+## Practica en la vida diaria
+
+Las tareas de esta unidad insisten en “sacar las reglas del cuaderno”:
+
+- **Inventario visible:** coloca cinco tarjetas (espejo, nevera, laptop). Cada vez que las mires, lee en voz alta y forma una frase breve (`De tas is blauw`).  
+- **Profesiones instantaneas:** cuando conozcas a alguien, formula mentalmente `Ik ben ...` + profesion (`de docent`, `de bakker`). Usa la tabla de vocabulario para crear tus propias combinaciones y repetirlas en voz alta.  
+- **Cuaderno + app:** usa Quizlet solo como apoyo. Pasa tus listas a papel para estudiar lejos de la pantalla y evita depender del audio.  
+- **Micro metas nocturnas:** antes de dormir escribe dos lineas sobre lo que haras mañana (`Morgen oefen ik de EU-klank`). Esta costumbre consolida el habito de estudio diario.
+
+  ### Ejemplos guiados
 
 - `De man leest een boek.` (El hombre lee un libro.) Observa la diferencia `man` (corto) vs `maan` (largo).  
 - `Ik hoor een mooi lied.` (Escucho una cancion bonita.) El par `oor` + `mooi` muestra OO larga antes y despues de R.  
@@ -135,7 +161,7 @@ A: Prima. We lezen samen hardop.
 
 ## Gestion de vocabulario
 
-La profesora insiste en construir un inventario vivo de palabras dificiles:
+El curso insiste en construir un inventario vivo de palabras dificiles:
 
 - **Paso 1**: cada vez que estudies un vocabulario nuevo, resalta (o subraya) lo que no recuerdas y pasalo a tu cuaderno. Trabaja en ambos sentidos: NL->ES y ES->NL.
 - **Paso 2**: divide el cuaderno en tres secciones: significado (NL-ES), traduccion inversa (ES-NL) y pronunciacion complicada.
@@ -223,6 +249,7 @@ Usa el dialogo para practicar la R final, el contraste O/OO y la expresion `ik h
 - `03_Ejercicios-Les1.md` con propuestas de repeticion, traduccion y mini-conversaciones.
 - `../Pronunciacion/Vocales.md` para repasar pares minimos adicionales.
 - `../Vocabulario/Colores.md` y `../Vocabulario/Familia.md` para ampliar el banco de palabras.
+- Material complementario: resumen de la clase sobre vocales O/OO, la guía del inventario de palabras difíciles y la letra impresa de “Onderweg” para lectura intensiva.
 
 ## Resumen de la leccion
 
