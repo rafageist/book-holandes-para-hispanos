@@ -1,4 +1,4 @@
----
+﻿---
 title: "Leccion 1 - Vocales y habitos iniciales"
 level: A1
 tags: [pronunciacion, vocabulario, habitos-estudio]
@@ -219,8 +219,8 @@ Usa el dialogo para practicar la R final, el contraste O/OO y la expresion `ik h
 
 ## Recursos complementarios
 
-- `Vocabulario-Les1.md` para listas detalladas.
-- `Ejercicios-Les1.md` con propuestas de repeticion, traduccion y mini-conversaciones.
+- `02_Vocabulario-Les1.md` para listas detalladas.
+- `03_Ejercicios-Les1.md` con propuestas de repeticion, traduccion y mini-conversaciones.
 - `../Pronunciacion/Vocales.md` para repasar pares minimos adicionales.
 - `../Vocabulario/Colores.md` y `../Vocabulario/Familia.md` para ampliar el banco de palabras.
 
