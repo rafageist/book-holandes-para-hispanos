@@ -16,3 +16,7 @@ Thumbs.db
 *.vtt
 *.txt
 *.tsv
+
+# Allow explicit order manifests
+!A1/pdf-order.txt
+!A2/pdf-order.txt

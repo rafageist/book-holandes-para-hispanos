@@ -36,15 +36,20 @@ jobs:
             "import re" \
             "from pathlib import Path" \
             "" \
-            "pattern = re.compile(r\"(audio|\\.mp3|\\.mp4|\\.wav|\\.ogg|\\.m4a)\", re.IGNORECASE)" \
+            "media_pattern = re.compile(r\"(audio|\\.mp3|\\.mp4|\\.wav|\\.ogg|\\.m4a)\", re.IGNORECASE)" \
+            "link_pattern = re.compile(r\"\\[([^\\]]+)\\]\\(([^)]+)\\)\")" \
+            "" \
+            "def clean_links(text: str) -> str:" \
+            "    return link_pattern.sub(r\"\\1\", text)" \
             "" \
             "def process(path_str: str) -> None:" \
             "    path = Path(path_str)" \
             "    text = path.read_text(encoding='utf-8')" \
             "    if text.startswith('---'):" \
             "        text = re.sub(r\"^---\\r?\\n.*?\\r?\\n---\\r?\\n?\", '', text, count=1, flags=re.S)" \
+            "    text = clean_links(text)" \
             "    for line in text.splitlines():" \
-            "        if pattern.search(line):" \
+            "        if media_pattern.search(line):" \
             "            continue" \
             "        print(line)" \
             "" \
