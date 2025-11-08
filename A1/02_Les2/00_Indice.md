@@ -10,7 +10,9 @@ Indice local de `02_Les2`.
 ## Recursos vinculados
 - [Pronunciacion - Consonantes](../Pronunciacion/Consonantes.md)
 - [Vocabulario - Vocabulario2](../Vocabulario/Vocabulario2.md)
+- [Vocabulario - Numeros](../Vocabulario/Numeros.md)
+- [Gramatica - VerboSerEstar](../Gramatica/VerboSerEstar.md)
 - [Ejercicio - Construccion de oraciones](../Ejercicios/Ejercicio_ConstructOraciones.md)
 
 ## Resumen rapido
-Unidad enfocada en pronombres personales, consonantes dificiles (NG, SCH) y primeros dialogos. Combina la leccion con el vocabulario de objetos cotidianos y los ejercicios de oraciones para afianzar el orden basico sujeto + verbo + complemento.
+Unidad enfocada en pronombres personales (formal/informal), consonantes dificiles (F/V/B/W, CH/SCH, NG, G), rutinas del dia y contrastes lexicos (`doen/maken`, `goed/leuk/lekker`). Complementa con notas culturales sobre Oranje-Nassau e integra vocabularios de sentidos y salud antes de resolver los ejercicios escritos.

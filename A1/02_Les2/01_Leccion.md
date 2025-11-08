@@ -135,6 +135,49 @@ La docente insiste en dos ideas:
 5. **Definiciones de tiempo** (Tarea 10): crea una linea de tiempo con las franjas `ochtend, middag, namiddag, avond, nacht`. Practica preguntas como `Hoe laat is de afspraak? Is dat 's avonds of 's middags?`
 6. **Actividad cultural**: escribe un parrafo corto sobre tu experiencia en el medico usando `huisarts`, `uitzieken`, `paracetamol`.
 
+## Consonantes clave (F/V/B/W, CH/SCH, NG, G)
+
+- **F / V / B / W**: la V neerlandesa vibra levemente (como una mezcla entre F y B). Practica pares `fijn/vijn`, `bos/was`, `bier/wier` para oir el contraste.  
+- **CH / SCH**: `ch` se pronuncia como una “j” fuerte (garganta). `sch` inicia con S + CH (`school`, `schoenen`).  
+- **NG**: siempre nasalizada. `ng` al final suena como “ng” inglesa (`koning`, `lang`). Si se agrega una G extra (`ngg`), la G se pronuncia (`zingen` → /zinguen/).  
+- **G**: aspirada, similar a una “j” castellana fuerte. Mantén la boca abierta y suelta el aire desde la garganta.
+
+Ejercicio rápido: lee en voz alta `fan/van`, `bier/wier`, `schip/schap`, `weg/reg`, `dingen/dingen` (distinguiendo NG y G). Marca en tu cuaderno cuáles combinaciones siguen sonando “españolas” y vuelve a practicarlas frente a un espejo.
+
+## Vocabulario del día y los sentidos
+
+| Tema | Palabras útiles |
+|------|-----------------|
+| Las partes del día | `de ochtend` (mañana), `de middag` (mediodía), `de namiddag` (tarde), `de avond` (noche temprana), `de nacht` (noche). |
+| Rutinas | `opstaan`, `ontbijten`, `werken`, `pauze nemen`, `lunchen`, `boodschappen doen`, `studeren`, `slapen`. |
+| Sentidos | `zien`, `horen`, `ruiken`, `proeven`, `voelen`. |
+| Salud básica | `de huisarts`, `de apotheek`, `de afspraak`, `de pijn`, `de koorts`. |
+
+Aplica estas palabras para describir tu día (`Om zeven uur sta ik op`, `Ik voel me goed want ik slaap acht uur`) y convierte la “estructura del día” en una rutina escrita propia.
+
+## Contrastes léxicos imprescindibles
+
+| Bloque | Uso | Ejemplo |
+|--------|-----|---------|
+| `doen` vs `maken` | `doen` se centra en la actividad; `maken` en crear/reparar. | `Ik doe de boodschappen`, `Ik maak soep`, `Ik maak mijn fiets` (arreglarla). |
+| `goed / leuk / lekker` | `goed` = correcto/bien de calidad; `leuk` = agradable/divertido; `lekker` = rico/agradable al sentido (sabor, clima). | `Het boek is goed`, `De film was leuk`, `De soep is lekker`. |
+| `graag gedaan` | Respuesta cortés a “dank je” (equivalente a “con gusto”). | `Dank je! – Graag gedaan.` |
+| `zien/kijken/luisteren/horen` | `zien` = percibir, `kijken` = mirar activamente, `horen` = oír, `luisteren` = escuchar con atención. | `Ik kijk naar de film`, `Ik luister naar muziek`, `Ik zie de kat`. |
+
+## Notas culturales (Casa de Oranje-Nassau)
+
+- **Monarquía y colores**: el color naranja proviene de la Casa de Oranje-Nassau. Verás banderas con la banda naranja añadida (“prinsenvlag”) en fiestas nacionales.  
+- **Himno (Wilhelmus)**: es uno de los más antiguos del mundo y describe la lealtad a William of Orange. Para practicar lectura, imprime la primera estrofa y subraya las combinaciones `ij` y `sch`.  
+- **Bandera actual**: rojo‑blanco‑azul; recuerda que el rojo era originalmente naranja pero se oscureció con el tiempo. Estos datos ayudan en conversaciones sencillas sobre cultura y feriados.
+
+## Rutina del día (estructura 24h)
+
+1. Escribe una línea temporal de 5 eventos con formato de 24 horas (`07:30 opstaan`, `08:00 ontbijten`, etc.).  
+2. Convierte cada evento en oración: `Om zeven uur sta ik op`, `Om acht uur ontbijt ik`.  
+3. Cambia dos frases al modo pregunta para practicar orden inverso (`Sta jij om zes uur op?`).  
+4. Añade un bloque de sensación/salud (`Ik voel me moe in de middag`, `Mijn neus ruikt koffie om tien uur`).  
+5. Termina con una frase cortés si hablas de actividades ajenas: `Dank je voor de hulp – Graag gedaan`.
+
 ## Checklist de tareas (oficial Les2)
 
 1. Tarea 1: repasar toda la clase.
@@ -156,4 +199,5 @@ Marca cada tarea cuando completes una ronda (lectura + escritura + practica oral
 - `../Vocabulario/` para ampliar los bloques 4-6.
 - `../Gramatica/VerboSerEstar.md` y `../Gramatica/VerboTener.md` para conjugar con los pronombres.
 - `../Ejercicios/` para dictados y cruces adicionales.
+- Lecturas recomendadas: resumen cultural sobre Oranje‑Nassau, tabla comparativa `doen/maken`, listado de sentidos y expresiones de cortesía (`graag gedaan`, `alsjeblieft`).
 
