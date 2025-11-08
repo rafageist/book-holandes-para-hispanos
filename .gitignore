@@ -1,0 +1,18 @@
+# Temp folder for intermediate artifacts (ignored)
+tmp/
+
+# Obsidian
+.obsidian/
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Whisper/ASR outputs (if any)
+*.srt
+*.vtt
+*.txt
+*.tsv
