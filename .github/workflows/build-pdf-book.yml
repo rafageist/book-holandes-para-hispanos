@@ -10,28 +10,27 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    env:
+      LEVELS: "A1 A2"
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Gather Markdown files from A1 vault (ordered)
+      - name: Install Pandoc and dependencies
         run: |
-          # Prefer explicit pdf-order.txt in A1/ to control chapter order; fallback to find
-          rm -f md-list.txt md-list-filtered.txt combined.md || true
-          if [ -f "A1/pdf-order.txt" ]; then
-            echo "Using A1/pdf-order.txt for PDF order"
-            # strip empty lines and comments
-            sed -e 's/\r$//' A1/pdf-order.txt | sed '/^\s*$/d' > md-list.txt
-          elif [ -d "A1" ]; then
-            echo "A1/pdf-order.txt not found; discovering .md files under A1/"
-            find A1 -path 'A1/tmp' -prune -o -path 'A1/.obsidian' -prune -o -name '*.md' -print | sort > md-list.txt
-          else
-            echo "A1 directory not found; exiting with empty list" > md-list.txt
-          fi
-          # Remove any entries that accidentally point into .github
-          grep -v '^.*/.github/' md-list.txt > md-list-filtered.txt || cp md-list.txt md-list-filtered.txt
-          # Helper script to strip YAML frontmatter and audio/media references
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended fonts-dejavu-core
+
+      - name: Set version info
+        run: |
+          VERSION=$(python -c "import pathlib,re; default='0.0.0'; path=pathlib.Path('manifest.yml'); text=path.read_text(encoding='utf-8') if path.exists() else ''; match=re.search(r'^version:\s*(.+)$', text, re.MULTILINE); value=(match.group(1).strip() if match else default); value=value.strip('\"').strip(\"'\"); print(value)")
+          if [ -z "$VERSION" ]; then VERSION="0.0.0"; fi
+          echo "BOOK_VERSION=$VERSION" >> $GITHUB_ENV
+          echo "BOOK_TAG=v$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Build PDFs for each level
+        run: |
           printf '%s\n' \
             "import sys" \
             "import re" \
@@ -53,49 +52,57 @@ jobs:
             "    process(sys.argv[1])" \
             > strip_md.py
 
-          # Combine into one file in the explicit order. Remove YAML frontmatter and any audio/media references
-          while IFS= read -r f; do
-            if [ -f "$f" ]; then
-              echo "\n\n<!-- Source: $f -->\n\n" >> combined.md
-              python strip_md.py "$f" >> combined.md
-            else
-              echo "Warning: listed file '$f' not found" >&2
+          for LEVEL in $LEVELS; do
+            if [ ! -d "$LEVEL" ]; then
+              echo "Skipping $LEVEL (directory not found)"
+              continue
             fi
-          done < md-list-filtered.txt
-          rm strip_md.py
 
-      - name: Install Pandoc and dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended fonts-dejavu-core
+            echo "Building PDF for $LEVEL"
+            rm -f md-list.txt md-list-filtered.txt combined-"$LEVEL".md
+            ORDER_FILE="$LEVEL/pdf-order.txt"
 
-      - name: Set version info
-        run: |
-          VERSION=$(python -c "import pathlib,re; default='0.0.0'; path=pathlib.Path('manifest.yml'); text=path.read_text(encoding='utf-8') if path.exists() else ''; match=re.search(r'^version:\s*(.+)$', text, re.MULTILINE); value=(match.group(1).strip() if match else default); value=value.strip('\"').strip(\"'\"); print(value)")
-          if [ -z "$VERSION" ]; then VERSION="0.0.0"; fi
-          echo "BOOK_VERSION=$VERSION" >> $GITHUB_ENV
-          echo "BOOK_TAG=v$(date +'%Y-%m-%d')" >> $GITHUB_ENV
-          echo "BOOK_NAME=holandes-curso-A1-${VERSION}.pdf" >> $GITHUB_ENV
+            if [ -f "$ORDER_FILE" ]; then
+              echo "Using $ORDER_FILE for ordering"
+              sed -e 's/\r$//' "$ORDER_FILE" | sed '/^[[:space:]]*$/d' | sed '/^[[:space:]]*#/d' > md-list.txt
+            else
+              echo "Order file not found for $LEVEL; discovering markdown files"
+              find "$LEVEL" -path "$LEVEL/tmp" -prune -o -path "$LEVEL/.obsidian" -prune -o -name '*.md' -print | sort > md-list.txt
+            fi
 
-      - name: Generate PDF with versioned name
-        run: |
-          pandoc combined.md -o "$BOOK_NAME" \
-            --pdf-engine=xelatex \
-            -V mainfont="DejaVu Sans" \
-            --toc --number-sections
+            grep -v '^.*/.github/' md-list.txt > md-list-filtered.txt || cp md-list.txt md-list-filtered.txt
+            COMBINED="combined-$LEVEL.md"
 
-      - name: Upload PDF as artifact
+            while IFS= read -r f; do
+              if [ -f "$f" ]; then
+                echo "\n\n<!-- Source: $f -->\n\n" >> "$COMBINED"
+                python strip_md.py "$f" >> "$COMBINED"
+              else
+                echo "Warning: listed file '$f' not found" >&2
+              fi
+            done < md-list-filtered.txt
+
+            OUTPUT="holandes-curso-${LEVEL}-${BOOK_VERSION}.pdf"
+            pandoc "$COMBINED" -o "$OUTPUT" \
+              --pdf-engine=xelatex \
+              -V mainfont="DejaVu Sans" \
+              --toc --number-sections
+          done
+
+          rm -f strip_md.py md-list.txt md-list-filtered.txt combined-*.md
+
+      - name: Upload PDFs as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ env.BOOK_NAME }}
-          path: ${{ env.BOOK_NAME }}
+          name: holandes-curso-pdfs
+          path: holandes-curso-*.pdf
 
-      - name: Create GitHub Release with PDF
+      - name: Create GitHub Release with PDFs
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ env.BOOK_TAG }}
-          name: "Holandes Curso A1 - v${{ env.BOOK_VERSION }} (${{ env.BOOK_TAG }})"
-          body: "Automated PDF export of the Holandes vault (A1 course)."
-          files: "${{ env.BOOK_NAME }}"
+          name: "Holandes Curso - v${{ env.BOOK_VERSION }} (${{ env.BOOK_TAG }})"
+          body: "Automated PDF export of the Holandes vault."
+          files: "holandes-curso-*.pdf"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
