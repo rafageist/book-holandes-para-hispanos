@@ -31,33 +31,38 @@ jobs:
           fi
           # Remove any entries that accidentally point into .github
           grep -v '^.*/.github/' md-list.txt > md-list-filtered.txt || cp md-list.txt md-list-filtered.txt
+          # Helper script to strip YAML frontmatter and audio/media references
+          printf '%s\n' \
+            "import sys" \
+            "import re" \
+            "from pathlib import Path" \
+            "" \
+            "pattern = re.compile(r\"(audio|\\.mp3|\\.mp4|\\.wav|\\.ogg|\\.m4a)\", re.IGNORECASE)" \
+            "" \
+            "def process(path_str: str) -> None:" \
+            "    path = Path(path_str)" \
+            "    text = path.read_text(encoding='utf-8')" \
+            "    if text.startswith('---'):" \
+            "        text = re.sub(r\"^---\\r?\\n.*?\\r?\\n---\\r?\\n?\", '', text, count=1, flags=re.S)" \
+            "    for line in text.splitlines():" \
+            "        if pattern.search(line):" \
+            "            continue" \
+            "        print(line)" \
+            "" \
+            "if __name__ == '__main__':" \
+            "    process(sys.argv[1])" \
+            > strip_md.py
+
           # Combine into one file in the explicit order. Remove YAML frontmatter and any audio/media references
           while IFS= read -r f; do
             if [ -f "$f" ]; then
               echo "\n\n<!-- Source: $f -->\n\n" >> combined.md
-              # strip leading YAML frontmatter if present, then remove audio/media lines
-              python - "$f" >> combined.md <<'PY'
-              import sys
-              import re
-              from pathlib import Path
-
-              path = Path(sys.argv[1])
-              text = path.read_text(encoding="utf-8")
-
-              if text.startswith("---"):
-                  text = re.sub(r"^---\r?\n.*?\r?\n---\r?\n?", "", text, count=1, flags=re.S)
-
-              pattern = re.compile(r"(audio|\.mp3|\.mp4|\.wav|\.ogg|\.m4a)", re.IGNORECASE)
-
-              for line in text.splitlines():
-                  if pattern.search(line):
-                      continue
-                  print(line)
-              PY
+              python strip_md.py "$f" >> combined.md
             else
               echo "Warning: listed file '$f' not found" >&2
             fi
           done < md-list-filtered.txt
+          rm strip_md.py
 
       - name: Install Pandoc and dependencies
         run: |
