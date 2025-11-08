@@ -1,0 +1,77 @@
+name: Build PDF Book
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+jobs:
+  generate-pdf:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Gather Markdown files from A1 vault (ordered)
+        run: |
+          # Prefer explicit pdf-order.txt in A1/ to control chapter order; fallback to find
+          rm -f md-list.txt md-list-filtered.txt combined.md || true
+          if [ -f "A1/pdf-order.txt" ]; then
+            echo "Using A1/pdf-order.txt for PDF order"
+            # strip empty lines and comments
+            sed -e 's/\r$//' A1/pdf-order.txt | sed '/^\s*$/d' > md-list.txt
+          elif [ -d "A1" ]; then
+            echo "A1/pdf-order.txt not found; discovering .md files under A1/"
+            find A1 -path 'A1/tmp' -prune -o -path 'A1/.obsidian' -prune -o -name '*.md' -print | sort > md-list.txt
+          else
+            echo "A1 directory not found; exiting with empty list" > md-list.txt
+          fi
+          # Remove any entries that accidentally point into .github
+          grep -v '^.*/.github/' md-list.txt > md-list-filtered.txt || cp md-list.txt md-list-filtered.txt
+          # Combine into one file in the explicit order. Remove YAML frontmatter and any audio/media references
+          while IFS= read -r f; do
+            if [ -f "$f" ]; then
+              echo "\n\n<!-- Source: $f -->\n\n" >> combined.md
+              # strip leading YAML frontmatter if present, then remove audio/media lines
+              awk 'BEGIN{in=0; first=1} NR==1{if($0=="---"){in=1; next}} { if(in==1){ if($0=="---"){in=0; next} else next } print }' "$f" \
+                | grep -v -E -i 'audio|\.mp3|\.mp4|\.wav|\.ogg|\.m4a' >> combined.md
+            else
+              echo "Warning: listed file '$f' not found" >&2
+            fi
+          done < md-list-filtered.txt
+
+      - name: Install Pandoc and dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended fonts-dejavu-core
+
+      - name: Set date version
+        run: |
+          echo "BOOK_TAG=v$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+          echo "BOOK_NAME=holandes-curso-A1-$(date +'%d-%m-%Y').pdf" >> $GITHUB_ENV
+
+      - name: Generate PDF with versioned name
+        run: |
+          pandoc combined.md -o "$BOOK_NAME" \
+            --pdf-engine=xelatex \
+            -V mainfont="DejaVu Sans" \
+            --toc --number-sections
+
+      - name: Upload PDF as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.BOOK_NAME }}
+          path: ${{ env.BOOK_NAME }}
+
+      - name: Create GitHub Release with PDF
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ env.BOOK_TAG }}
+          name: "Holandes Curso A1 – ${{ env.BOOK_TAG }}"
+          body: "Automated PDF export of the Holandes vault (A1 course)."
+          files: "${{ env.BOOK_NAME }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
