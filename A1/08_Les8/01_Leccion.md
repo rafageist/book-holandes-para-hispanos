@@ -1,80 +1,130 @@
 ---
 title: "Leccion 8 - Repaso final y pasos siguientes"
 lesson: 08
-tags: [repaso, examen, pronombres, numeros100+, lectura]
+tags: [repaso, examen, pronombres, numeros100, lectura]
 ---
 
 ## Panorama
 
-La última clase del curso A1 cierra con un repaso integral: resolvemos dudas sobre preguntas, practicamos pronombres posesivos/complementarios, introducimos los números a partir de 100 y utilizamos la letra de “Palabras de amor” como broche emocional totalmente escrito. También se ofrecen orientaciones para el examen de vocabulario y el salto a A2.
+La octava unidad cierra el nivel A1 con un repaso integral y una mirada al siguiente paso. Revisamos la estructura de preguntas, reforzamos pronombres posesivos y de objeto, ampliamos los numeros mas alla de cien, practicamos un examen de vocabulario y analizamos un texto motivador llamado "Palabras de amor". Todo el contenido permanece textual, ideal para imprimir o usar en Obsidian sin recursos externos.
 
 ## Objetivos
 
-- Dominar la formación de preguntas (orden verbo-sujeto) y revisar las tareas de la semana 7.
-- Usar pronombres posesivos y complementarios en frases cortas.
-- Introducir números mayores a 100 y su unión con `en`/`honderd`.
-- Entender el formato del examen de vocabulario/cierre y planear el siguiente nivel.
+- Transformar oraciones en preguntas respetando el orden verbo-sujeto.
+- Usar pronombres posesivos y complementarios en contextos cotidianos.
+- Escribir numeros de tres y cuatro cifras con precision.
+- Simular un examen final (dictado, descripcion, lectura) para evaluar el nivel A1.
+- Planificar la transicion hacia A2 con habitos de estudio claros.
 
-## 1. Revisando preguntas (Tarea final)
+## 1. Recordatorio de preguntas
 
-- Recordatorio: cuando el tiempo (o complemento) va al inicio, el verbo se posiciona antes del sujeto (`Morgen ga ik`).  
-- Para preguntas: el verbo va primero, luego el pronombre (`Ga jij morgen naar huis?`).  
-- Interrogativos con sustantivo (`welke muziek`, `hoeveel appels`) obligan a mantener esa combinación (`Welke muziek vind jij leuk?`).
+Reglas clave:
+- Complemento temporal al inicio -> verbo en segunda posicion (`Morgen ga ik`, `Volgende week werken wij thuis`).
+- Preguntas cerradas: verbo primero, luego pronombre (`Ga jij morgen naar huis?`, `Hebben jullie al gegeten?`).
+- Interrogativos con sustantivo: `welke + sustantivo`, `hoeveel + sustantivo` (`Welke muziek vind jij leuk?`).
 
-Actividad: transforma 6 oraciones afirmativas en preguntas y comprueba el orden (verbo + sujeto).
+**Ejercicio**: toma seis oraciones afirmativas y conviertelas en preguntas, incluyendo al menos dos con interrogativo y dos con complemento temporal al inicio. Verifica el orden (verbo antes del sujeto).
 
-## 2. Pronombres posesivos y complementarios
+## 2. Pronombres posesivos y de objeto
 
-### Posesivos
+| Persona | Posesivo | Objeto | Ejemplo |
+|---------|---------|--------|---------|
+| ik | `mijn` | `mij/me` | `Dit is mijn boek`, `Kun je mij helpen?` |
+| jij/je | `jouw/je` | `jou/je` | `Is dat jouw fiets?`, `Ik zie je morgen.` |
+| hij | `zijn` | `hem` | `Zijn jas is blauw`, `Ik bel hem`. |
+| zij/ze | `haar` | `haar` | `Haar huis is groot`, `Wij helpen haar`. |
+| wij | `ons/onze` | `ons` | `Ons huis is klein`, `Bel ons later`. |
+| jullie | `jullie` | `jullie` | `Jullie plan is goed`, `Ik zie jullie straks`. |
+| zij (plural) | `hun` | `hen/hun/ze` | `Hun kinderen spelen`, `Ik geef hen het boek`. |
 
-`mijn`, `jouw/je`, `zijn`, `haar`, `ons/onze`, `jullie`, `hun`.  
-Ejemplos: `Dit is mijn boek`, `Onze familie woont in Rotterdam`.
+Practica: escribe ocho frases combinando ambos tipos (`Mijn moeder belt me elke dag`, `Wij geven hun het cadeau`). Reescribe las frases invirtiendo el orden para confirmar el uso correcto.
 
-### Pronombres objeto (complemento)
+## 3. Numeros a partir de 100
 
-`mij/me`, `jou/je`, `hem`, `haar`, `ons`, `jullie`, `hen/hun/ze`.  
-- `Ik zie hem morgen`, `Kun je mij helpen?`, `Hij geeft haar het boek`.
+- Centenas: `honderd`, `tweehonderd`, `driehonderd`.  
+- Ejemplos: `125 = honderd vijfentwintig`, `342 = driehonderd tweeenveertig`, `999 = negenhonderd negenennegentig`.  
+- Mil: `duizend`, `1500 = vijftienhonderd` o `duizend vijfhonderd`.  
+- Precios: `Het kost tweehonderd euro`, `Deze jas kost duizend driehonderd negenennegentig euro`.
 
-Ejercicio: escribe 8 frases combinando posesivos y pronombres objeto (`Mijn moeder belt me elke dag`, `Wij helpen hen`).
+**Practica**: anota diez numeros (100-1500), dos precios y dos cantidades grandes (habitantes, pasos). Escribe cada uno en neerlandes y repite en voz alta para fijar la pronunciacion.
 
-## 3. Números a partir de 100
+## 4. Simulacion de examen final
 
-- Formato: `honderd`, `tweehonderd`, `driehonderd`, etc.  
-- Ejemplos: `125 = honderd vijfentwintig`, `342 = driehonderd tweeënveertig`, `1000 = duizend`.  
-- Millar + unidad: `1500 = vijftienhonderd` o `duizend vijfhonderd`.
+1. **Dictado**: elige veinte palabras de las listas trabajadas (familia, casa, cuerpo, verbos). Escribe las palabras sin mirar y revisa la ortografia.
+2. **Descripcion**: redacta cinco frases sobre tu dia incluyendo pasado y presente (`Gisteren heb ik gestudeerd. Vandaag werk ik thuis.`).
+3. **Lectura**: toma un parrafo breve (o usa la seccion de lectura de esta leccion) y responde tres preguntas en neerlandes; evalua comprension y acceso a vocabulario.
 
-Práctica: escribe 10 números y anótalos de nuevo en neerlandés; incluye precios (`€ 275`, `€ 1.399`).
+Registra el tiempo que tardas y revisa si dominas el nivel A1 sin consultar diccionario.
 
-## 4. Examen de vocabulario / cierre
+## 5. Lectura "Palabras de amor"
 
-- Se sugiere repasar:
-  - Listas de `Vocabulario1-3`, familia, casa, direcciones, cuerpo.  
-  - Participios clave, interrogativos, verbos separables y modales (`kunnen/mogen`).  
-- Evalúate con:
-  1. Dictado de 20 palabras (auto-dictado o intercambio escrito).  
-  2. 5 preguntas abiertas (describe tu familia, rutina, etc.).  
-  3. Comprensión de lectura corta (por ejemplo, un fragmento del texto “Palabras de amor”) y respuesta escrita.
+Texto sugerido (adaptado para A1):
 
-## 5. Texto “Palabras de amor”
+> Woorden van liefde sturen licht naar de mensen die we missen.  
+> Ik denk aan jouw lach en ik beloof mezelf dat ik blijf leren.  
+> Zelfs als het regent, zoek ik woorden die warmte geven.  
+> Want liefde is ook zeggen: ik geloof in jou, vandaag en morgen.
 
-- Tema: despedida cariñosa y motivación para seguir aprendiendo.  
-- Tareas:
-  1. Extraer frases de cariño (`ik hou van jou`, `woorden van liefde`).  
-  2. Identificar cualquier uso de pronombres o modales.  
-  3. Escribir un mensaje final en neerlandés dedicado a un compañero.
+Actividades:
+1. Subraya pronombres y modales (`ik`, `jij`, `ik denk`, `ik beloof`).  
+2. Identifica vocabulario emocional (`liefde`, `licht`, `warmte`).  
+3. Traduce al espanol y escribe un mensaje propio: `Ik stuur je woorden van liefde omdat ...`.  
+4. Menciona una frase que te motive a continuar con A2.
 
-## 6. Pasos siguientes (A2)
+## 6. Pasos siguientes hacia A2
 
-- Continuar con:  
-  - Profundizar participios irregulares.  
-  - Introducir pasado simple (`ik maakte`, `ik woonde`).  
-  - Expandir vocabularios temáticos (trabajo, estudio, cultura).  
-- Recomendar mantener un diario en neerlandés (5 líneas al día) y alternar lecturas cortas (artículos, letras impresas) para seguir exponiéndote al idioma.
+- Mantener un diario breve: cinco lineas diarias con pasado y futuro.  
+- Revisar participios irregulares cada semana; crear tarjetas con ejemplos.  
+- Leer articulos cortos en neerlandes (noticias faciles, blogs) y subrayar conectores.  
+- Preparar una lista de preguntas tipicas de vida diaria (trabajo, estudio, transporte) para practicarlas en A2.  
+- Elegir un tema cultural cada mes (fiestas, comida, historia) y escribir un parrafo.
 
-## Checklist final
+## 7. Checklist final
 
-1. Repasar preguntas y entregar la tarea evaluada.  
-2. Completar el examen de vocabulario (dictado + descripción + comprensión lectora).  
-3. Escribir una carta breve de despedida en neerlandés (1 párrafo).  
-4. Decidir plan de estudio para A2 y preparar materiales (app de vocabulario, listas).  
-5. Leer “Palabras de amor” y compartir tu frase favorita por escrito.
+1. Converti oraciones en preguntas y revise el orden.  
+2. Practique posesivos y pronombres objeto en frases reales.  
+3. Escribi numeros de tres y cuatro cifras correctamente.  
+4. Realice el dictado, la descripcion y la lectura del examen final.  
+5. Escribi un mensaje de despedida inspirado en "Palabras de amor".  
+6. Defini tres objetivos concretos para iniciar A2.
+
+Marca cada punto al completarlo para asegurar el cierre del nivel.
+
+## Recursos complementarios
+
+- `../Vocabulario/Vocabulario3.md` para seguir repasando listas generales.  
+- `../Ejercicios/Ejercicio_NumerosFamilia.md` para consolidar numeros y parentescos.  
+- `../Gramatica/Pronombres.md` (si existe en tu vault) o tus propias notas para posesivos/objetos.  
+- Plantillas de diarios en Obsidian para continuar escribiendo sin depender de audio.
+
+## Resumen de la leccion
+
+- Reafirmaste la estructura de preguntas y el orden verbo-sujeto.  
+- Practicaste pronombres posesivos y de objeto en contexto.  
+- Escribiste numeros de tres y cuatro cifras con seguridad.  
+- Simulaste un examen final con dictado, descripcion y lectura.  
+- Analizaste "Palabras de amor" para cerrar el curso con motivacion y planificar A2.
+
+## Palabras nuevas
+
+- `woorden van liefde` - palabras de amor.  
+- `licht` - luz.  
+- `warmte` - calor/abrigo.  
+- `beloof` - prometo.  
+- `geloven` - creer.  
+- `honderd`, `duizend` - centenas y millares.  
+- `kost` - cuesta (precio).  
+- `dagboek` - diario.  
+- `afscheid` - despedida.
+
+## Consejo cultural
+
+Es habitual en los Paises Bajos despedirse con frases sencillas pero sinceras (`veel succes`, `ik ben trots op je`). Practica cerrar tus mensajes escritos con expresiones amables para fortalecer relaciones sociales mientras avanzas hacia A2.
+
+## Errores comunes
+
+- Olvidar que en preguntas el verbo va antes del sujeto (`Ga jij...`).  
+- Confundir `hun` (posesivo) con `hen` (objeto).  
+- Escribir numeros compuestos sin `en` (`honderd vijfentwintig`, no `honderdvijfentwintig`).  
+- Descuidar la consistencia en el examen final (por ejemplo, mezclar presente y pasado sin orden).  
+- Postergar el plan de estudio para A2: escribe objetivos concretos y fechas para mantener el ritmo.
