@@ -21,7 +21,7 @@
 ## 4. Verbos de posicion
 
 1. Describe cinco objetos de tu casa usando `staan`, `liggen` o `zitten` junto con una preposicion (`De lamp staat naast de bank`).  
-2. Convierte cada descripcion en pregunta (`Waar staat de lamp?`).  
+2. Convierte cada descripción en pregunta (`Waar staat de lamp?`).  
 3. Agrega respuestas cortas en perfecto (`Hij heeft de lamp naast de bank gezet`).
 
 ## 5. Opiniones
@@ -35,7 +35,7 @@
 1. Copia cuatro versos de la letra y marca participios, palabras de valor (`goud`, `waardevol`) y emociones.  
 2. Escribe un resumen de tres frases en espanol.  
 3. Redacta dos oraciones en neerlandes que conecten cuerpo y emocion (`Ik krijg kippenvel wanneer ik aan mijn familie denk`).  
-4. Practica la pronunciacion de `ou` y `g` leyendo en voz alta.
+4. Práctica la pronunciación de `ou` y `g` leyendo en voz alta.
 
 ## 7. Ejercicio de completar espacios
 
@@ -50,8 +50,8 @@ Rellena con la forma correcta.
 7. `Volgens mij ____ deze oefening ___ (moeilijk) maar waardevol.`  
 8. `Waarom ____ je vandaag zo blij ____ (zijn)?`
 
-## 8. Lista de palabras dificiles
+## 8. Lista de palabras difíciles
 
 1. Anade cinco participios irregulares, cinco partes del cuerpo y tres expresiones de opinion a tu inventario NL-ES y ES-NL.  
-2. Acompana cada palabra con una oracion propia y una nota de pronunciacion.  
+2. Acompana cada palabra con una oracion propia y una nota de pronunciación.  
 3. Revisa la lista al final de la semana y marca cuales ya dominas.

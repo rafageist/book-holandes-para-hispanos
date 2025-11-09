@@ -23,7 +23,7 @@
 | `blij` | contento en el momento | `Ik ben blij vandaag`. |
 | `lekker` | agradable al gusto o los sentidos | `De soep is lekker`, `Het weer is lekker`. |
 
-## Numeros y ordinales
+## Números y ordinales
 
 - Decenas: `twintig`, `dertig`, `veertig`, `vijftig`, `zestig`, `zeventig`, `tachtig`, `negentig`, `honderd`.
 - Sistema invertido: `eenentwintig`, `vierendertig`, `negenenzeventig`, `achtentachtig`.

@@ -1,11 +1,11 @@
 ﻿---
-title: "Ejercicios - Leccion 1"
+title: "Ejercicios - Lección 1"
 level: A1
 ---
 
 ## Calentamiento diario (10 minutos)
 
-1. **Lectura guiada**: relee un fragmento de la leccion (Partes 1-5) y subraya cada vocal doble.
+1. **Lectura guiada**: relee un fragmento de la lección (Partes 1-5) y subraya cada vocal doble.
 2. **Repeticion**: di cada palabra 5 veces, marcando consonantes finales (`pop`, `bos`, `root`).
 3. **Registro flash**: dedica 30 segundos a repetir y escribir pares (`man/maan`, `bos/boos/baas`). Anota por escrito las diferencias que detectes.
 
@@ -15,7 +15,7 @@ level: A1
 |-----------|-------|
 | A vs AA | Escribe 5 oraciones cortas cambiando el significado solo con la longitud (`De man is boos`, `De maan is groot`). |
 | O y combinaciones con R | Lee en voz alta `oor`, `oorlog`, `boor`, `hoor`. Marca cuando la R cambia el timbre. |
-| U / UI / OE | Practica frente a un espejo: di `zus`, `huur`, `huis`, `boek`. Usa el truco "decir I con labios en U" para UI. |
+| U / UI / OE | Práctica frente a un espejo: di `zus`, `huur`, `huis`, `boek`. Usa el truco "decir I con labios en U" para UI. |
 | NG nasal | Bloquea la garganta y pronuncia `koning`, `jongen`, `lang`, `spring`. Anade el plural para extender la vocal. |
 
 ## Dictado bidireccional
@@ -24,16 +24,16 @@ level: A1
 2. Invierte: tapa la columna de español y reescribe las mismas palabras en neerlandes desde la memoria.
 3. Marca con un asterisco las letras que suelen perderse (D final = T, NG nasal, J como I) y crea una micro lista de repaso.
 
-## Inventario de palabras dificiles
+## Inventario de palabras difíciles
 
 Inspirado en la tarea oficial:
 
 1. **Tablas paralelas**:
    - NL -> ES (significado).
    - ES -> NL (traduccion inversa).
-   - Pronunciacion complicada (anota trucos: "UI = I con labios en U").
+   - Pronunciación complicada (anota trucos: "UI = I con labios en U").
 2. **Cinco palabras al dia**: pega las tarjetas en cocina o bano y forma frases (`Ik heb een rood boek`, `Hij is boos`).
-3. **Mini examen semanal**: tacha las palabras ya dominadas; lo que siga dificil regresa a la lista.
+3. **Mini examen semanal**: tacha las palabras ya dominadas; lo que siga difícil regresa a la lista.
 
 ## Colores y frutas en accion
 
@@ -48,16 +48,16 @@ Inspirado en la tarea oficial:
 3. Identifica dos verbos y reescribe las frases cambiando el sujeto (Wij zijn onderweg, Jij wilt...).
 4. Redacta una reflexion en español de tres lineas donde conectes la letra con tu proceso de aprendizaje.
 
-## Practica en tu vida diaria
+## Práctica en tu vida diaria
 
 1. **Inventario visible:** pega cinco tarjetas (espejo, nevera, laptop, agenda, puerta). Lee en voz alta y forma una frase breve.
-2. **Profesiones lightning:** practica Hallo, ik ben ... + profesion y Ik werk in .... Cambia cada dia.
+2. **Profesiones lightning:** práctica Hallo, ik ben ... + profesion y Ik werk in .... Cambia cada dia.
 3. **Micro diarios:** antes de dormir escribe dos oraciones (Vandaag oefen ik de OE, Morgen koop ik fruit).
 4. **App + papel:** transcribe lo que aprendes en herramientas digitales a tu cuaderno para poder estudiarlo sin pantalla.
 
 ## Mini dialogos
 
-Practica en parejas o frente al espejo:
+Práctica en parejas o frente al espejo:
 
 ```
 A: Hallo! Hoe gaat het?

@@ -34,4 +34,4 @@ Graba (o simula) una entrevista de 1 minuto donde una persona pregunta sobre tu 
 
 ## 5. Inventario de vocabulario
 
-Agrega las 10 palabras/emociones nuevas a tu inventario NL→ES y ES→NL. Practica con tarjetas o Quizlet.
+Agrega las 10 palabras/emociones nuevas a tu inventario NL→ES y ES→NL. Práctica con tarjetas o Quizlet.

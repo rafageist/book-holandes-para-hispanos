@@ -1,7 +1,7 @@
 ---
-title: "Leccion 3 - Conjugacion, numeros y vocabulario cotidiano"
+title: "Lección 3 - Conjugacion, números y vocabulario cotidiano"
 lesson: 03
-tags: [conjugacion, numeros, comer-beber, ortografia, cultura]
+tags: [conjugacion, números, comer-beber, ortografía, cultura]
 ---
 
 ## Panorama
@@ -12,7 +12,7 @@ La tercera unidad pasa de las reglas aisladas a la produccion activa: conjugamos
 
 - Obtener la raiz correcta (sin `-en`) y aplicar terminaciones en presente para cada pronombre.
 - Formar oraciones simples con la estructura `pronombre + verbo + complemento` y variar el sujeto o el elemento inicial.
-- Contar de 20 a 100 con el sistema invertido y usar numeros ordinales con los sufijos `-de` y `-ste`.
+- Contar de 20 a 100 con el sistema invertido y usar números ordinales con los sufijos `-de` y `-ste`.
 - Incorporar vocabulario de comida y bebida para describir menus diarios.
 - Reconocer abreviaturas de calendario y aplicar el dieresis (`trema`) cuando dos vocales deben pronunciarse por separado.
 - Diferenciar `worden`, `denken`, `nadenken`, `praten`, `spreken`, `zorgen`, `oppassen`, `heel`, `veel` y `erg`.
@@ -36,7 +36,7 @@ La tercera unidad pasa de las reglas aisladas a la produccion activa: conjugamos
 > En presente no se agrega `-d`. Las formas con `-d` aparecen en pasado o participios.
 
 **Rutina sugerida**
-1. Selecciona 5 verbos base (por ejemplo `lopen`, `werken`, `drinken`, `koken`, `worden`).
+1. Seleccióna 5 verbos base (por ejemplo `lopen`, `werken`, `drinken`, `koken`, `worden`).
 2. Conjuga el verbo completo en tu cuaderno.
 3. Forma oraciones con tres elementos (`Ik kook soep`, `Jullie drinken koffie`).
 4. Cambia el sujeto y coloca el tiempo al inicio (`Morgen werk ik...`).
@@ -46,9 +46,9 @@ La tercera unidad pasa de las reglas aisladas a la produccion activa: conjugamos
 - `worden` describe procesos o cambios de estado: `Het huis wordt mooi`, `Het weer wordt beter`, `Ik wil docent worden`.
 - `denken` = pensar/opinar rapidamente: `Ik denk dat het regent`, `Ik denk aan jou`.
 - `nadenken (over)` = reflexionar con calma: `Ik denk over je voorstel na`. Al conjugarlo, la particula se separa (`Denk erover na`).
-- Manten tu inventario de palabras actualizado: cada semana evalua que verbos nuevos ya dominas y cuales regresan a la lista de "palabras dificiles".
+- Manten tu inventario de palabras actualizado: cada semana evalua que verbos nuevos ya dominas y cuales regresan a la lista de "palabras difíciles".
 
-**Mini practica**
+**Mini práctica**
 1. Escribe tres frases con `worden` (estado fisico, profesion y clima).
 2. Redacta dos preguntas con `Denk je dat ...?` y responde por escrito.
 3. Cierra con un parrafo corto donde expliques una ocasion en la que necesitas `nadenken`.
@@ -73,7 +73,7 @@ Escribe un dialogo breve (6-8 lineas) donde aparezcan todos estos pares y marca 
 
 **Ejercicio**: escribe cinco frases cambiando unicamente el intensificador y explica el matiz en espanol.
 
-## 5. Numeros 20-100 y ordinales
+## 5. Números 20-100 y ordinales
 
 - Decenas: `twintig`, `dertig`, `veertig`, `vijftig`, `zestig`, `zeventig`, `tachtig`, `negentig`, `honderd`.
 - Sistema invertido: unidad + `en` + decena (`eenentwintig`, `vijfenvijftig`, `achtentachtig`).
@@ -83,7 +83,7 @@ Escribe un dialogo breve (6-8 lineas) donde aparezcan todos estos pares y marca 
 ## 6. Dieresis (`trema`) y abreviaturas
 
 - Coloca el trema sobre la segunda vocal cuando deban pronunciarse por separado: escribe `reunie` y marca dos puntos sobre la segunda `e` para formar `reunie` con trema; haz lo mismo con `cooperatie`, `zeeen`, `Belgie`, `ideeen`, `tweeentwintig`.
-- Practica con tu inventario: reescribe 10 palabras anadiendo el trema correcto y leelas en voz alta.
+- Práctica con tu inventario: reescribe 10 palabras anadiendo el trema correcto y leelas en voz alta.
 - Usa las abreviaturas en frases reales: `De cursus loopt van maandag t/m donderdag`, `De afspraak was op 2 september jl.`, `Het examen es op 20 oktober a.s.`.
 
 ### Ejemplos guiados
@@ -107,7 +107,7 @@ Repasa `../Vocabulario/ComerBeber.md` y crea tu menu diario:
 
 Describe por escrito que comes a cada hora y explica por que eliges esos alimentos. Compara con tu rutina en espanol para notar semejanzas y diferencias.
 
-## 8. Mini practica de traduccion
+## 8. Mini práctica de traduccion
 
 ### Espanol -> neerlandes
 1. Mis padres cuidan a mi abuela todos los dias.  
@@ -138,7 +138,7 @@ Completa con la forma correcta.
 7. `Mijn zus ______ (spreken) vier talen.`  
 8. `Op 21e mei ______ (vieren) we een feest.`
 
-## 10. Lectura y pronunciacion guiada: "Zwart Wit"
+## 10. Lectura y pronunciación guiada: "Zwart Wit"
 
 1. Copia la letra en tu cuaderno y marca las consonantes finales pronunciadas (`-t`, `-d`, `-s`).  
 2. Subraya palabras clave (`zwart`, `wit`, `gelijk`, `vrijheid`) y escribe su traduccion inmediata.  
@@ -148,33 +148,33 @@ Completa con la forma correcta.
 
 ## 11. Checklist de tareas (semana 3)
 
-1. Repasar la leccion completa (partes 1-4) y tus notas de preguntas frecuentes.  
+1. Repasar la lección completa (partes 1-4) y tus notas de preguntas frecuentes.  
 2. Reforzar los pronombres usando la tabla de conjugacion.  
 3. Escribir 15 oraciones (sujeto + verbo + complemento) con los verbos base.  
-4. Practicar formulas de cortesia (`alsjeblieft/dank je/graag gedaan`).  
+4. Prácticar formulas de cortesia (`alsjeblieft/dank je/graag gedaan`).  
 5. Contar de 1 a 100 y trabajar el sistema invertido en papel.  
 6. Revisar abreviaturas (`t/m`, `jl.`, `a.s.`) en tu calendario.  
-7. Actualizar el inventario de palabras dificiles con verbos nuevos (`worden`, `nadenken`, `oppassen`).  
+7. Actualizar el inventario de palabras difíciles con verbos nuevos (`worden`, `nadenken`, `oppassen`).  
 8. Repasar el uso del trema con ejemplos propios.  
 9. Preparar un menu diario y describirlo por escrito.  
 10. Leer "Zwart Wit" y anotar expresiones reutilizables.
 
-Marca cada tarea cuando completes lectura, escritura y practica oral basica.
+Marca cada tarea cuando completes lectura, escritura y práctica oral basica.
 
 ## Recursos complementarios
 
-- `../Vocabulario/Numeros.md` (cardinales y ordinales).  
+- `../Vocabulario/Números.md` (cardinales y ordinales).  
 - `../Vocabulario/ComerBeber.md` (listas tematicas).  
-- `../Pronunciacion/Vocales.md` y `../Pronunciacion/Consonantes.md` (repaso de combinaciones).  
-- `../Ejercicios/Ejercicio_Numeros20_100.md` y `../Ejercicios/Ejercicio_ConstructOraciones.md` para practica adicional.
+- `../Pronunciación/Vocales.md` y `../Pronunciación/Consonantes.md` (repaso de combinaciones).  
+- `../Ejercicios/Ejercicio_Números20_100.md` y `../Ejercicios/Ejercicio_ConstructOraciones.md` para práctica adicional.
 
-## Resumen de la leccion
+## Resumen de la lección
 
 - Conjugaste verbos regulares en presente sin depender de recursos externos y controlando la raiz.  
 - Diferenciaste los verbos de cambio (`worden`) y pensamiento (`denken/nadenken`).  
-- Ampliaste numeros, abreviaturas y trema para escribir fechas y terminos sin errores.  
-- Incorporaste vocabulario de comida/bebida y practicaste intensificadores con contexto real.  
-- Leiste y analizaste la letra "Zwart Wit" para ejercitar pronunciacion y comprension.
+- Ampliaste números, abreviaturas y trema para escribir fechas y terminos sin errores.  
+- Incorporaste vocabulario de comida/bebida y prácticaste intensificadores con contexto real.  
+- Leiste y analizaste la letra "Zwart Wit" para ejercitar pronunciación y comprension.
 
 ## Palabras nuevas
 
@@ -199,4 +199,4 @@ El apellido Oranje-Nassau y el color naranja se asocian con celebraciones nacion
 - **Confundir `praten` y `spreken`**: usa `spreken` para idiomas o registros formales.  
 - **Omitir el trema** en palabras con vocales contiguas (escribe `idee-en` para recordar donde va el signo).  
 - **Traducir literalmente intensificadores**: `mucho calor` no es `veel warm` sino `het is heel warm`.  
-- **Escribir numeros compuestos sin `en`**: recuerda `vijfenvijftig` (cinco y cincuenta) y no `vijfen vijftig`.
+- **Escribir números compuestos sin `en`**: recuerda `vijfenvijftig` (cinco y cincuenta) y no `vijfen vijftig`.

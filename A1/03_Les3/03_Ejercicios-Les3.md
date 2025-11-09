@@ -12,26 +12,26 @@
 Redacta 6 frases sobre tu rutina incluyendo:
 - Un verbo de cambio (`worden` o `blijven`).  
 - Un verbo cognitivo (`denken` o `nadenken`).  
-- Un numero (cardinal u ordinal).  
-Lee en voz alta y verifica la pronunciacion de consonantes finales.
+- Un número (cardinal u ordinal).  
+Lee en voz alta y verifica la pronunciación de consonantes finales.
 
 ## 3. Contrastes lexicos (hablar, cuidar, percibir)
 
 1. Escribe un dialogo de 8 lineas usando `praten`, `spreken`, `zorgen voor`, `oppassen op`, `zien`, `kijken`, `horen`, `luisteren`.  
 2. Marca cuando usas un tratamiento formal (`u`) y cuando informal (`jij/jullie`).
 
-## 4. Numeros y ordinales
+## 4. Números y ordinales
 
 1. Cuenta en voz alta solo las decenas.  
-2. Escribe los numeros: `21, 34, 47, 58, 69, 88, 95`.  
-3. Haz un dictado: pide a alguien que te dicte 8 numeros y escribelos en neerlandes.  
+2. Escribe los números: `21, 34, 47, 58, 69, 88, 95`.  
+3. Haz un dictado: pide a alguien que te dicte 8 números y escribelos en neerlandes.  
 4. Usa tres ordinales en frases (`De derde oefening is moeilijk`).
 
 ## 5. Dieresis y abreviaturas
 
 1. Lista 10 palabras con vocal+vocal y coloca el trema correcto (anota que `reunie`, `ideeen`, `tweeentwintig` llevan dos puntos sobre la segunda vocal).  
 2. Escribe tres citas usando `t/m`, `jl.` y `a.s.`.  
-3. Revisa numeros compuestos con trema y leelos en voz alta.
+3. Revisa números compuestos con trema y leelos en voz alta.
 
 ## 6. Comer y beber
 
@@ -59,9 +59,9 @@ Lee en voz alta y verifica la pronunciacion de consonantes finales.
 
 ## 10. Checklist semanal
 
-- [ ] Repeti la tabla de conjugaciones y el dictado de numeros.  
+- [ ] Repeti la tabla de conjugaciones y el dictado de números.  
 - [ ] Practique los contrastes `praten/spreken`, `zorgen/oppassen`, `zien/kijken/horen/luisteren`.  
-- [ ] Actualice mi inventario de palabras dificiles con 10 terminos nuevos.  
+- [ ] Actualice mi inventario de palabras difíciles con 10 terminos nuevos.  
 - [ ] Escribi y lei en voz alta mi menu diario.  
 - [ ] Revise el uso del trema y las abreviaturas en frases reales.  
 - [ ] Trabaje la lectura de "Zwart Wit" y anote expresiones reutilizables.

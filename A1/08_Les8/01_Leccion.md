@@ -1,19 +1,19 @@
 ---
-title: "Leccion 8 - Repaso final y pasos siguientes"
+title: "Lección 8 - Repaso final y pasos siguientes"
 lesson: 08
-tags: [repaso, examen, pronombres, numeros100, lectura]
+tags: [repaso, examen, pronombres, números100, lectura]
 ---
 
 ## Panorama
 
-La octava unidad cierra el nivel A1 con un repaso integral y una mirada al siguiente paso. Revisamos la estructura de preguntas, reforzamos pronombres posesivos y de objeto, ampliamos los numeros mas alla de cien, practicamos un examen de vocabulario y analizamos un texto motivador llamado "Palabras de amor". Todo el contenido permanece textual, ideal para imprimir o usar en Obsidian sin recursos externos.
+La octava unidad cierra el nivel A1 con un repaso integral y una mirada al siguiente paso. Revisamos la estructura de preguntas, reforzamos pronombres posesivos y de objeto, ampliamos los números mas alla de cien, prácticamos un examen de vocabulario y analizamos un texto motivador llamado "Palabras de amor". Todo el contenido permanece textual, ideal para imprimir o usar en Obsidian sin recursos externos.
 
 ## Objetivos
 
 - Transformar oraciones en preguntas respetando el orden verbo-sujeto.
 - Usar pronombres posesivos y complementarios en contextos cotidianos.
-- Escribir numeros de tres y cuatro cifras con precision.
-- Simular un examen final (dictado, descripcion, lectura) para evaluar el nivel A1.
+- Escribir números de tres y cuatro cifras con precision.
+- Simular un examen final (dictado, descripción, lectura) para evaluar el nivel A1.
 - Planificar la transicion hacia A2 con habitos de estudio claros.
 
 ## 1. Recordatorio de preguntas
@@ -37,22 +37,22 @@ Reglas clave:
 | jullie | `jullie` | `jullie` | `Jullie plan is goed`, `Ik zie jullie straks`. |
 | zij (plural) | `hun` | `hen/hun/ze` | `Hun kinderen spelen`, `Ik geef hen het boek`. |
 
-Practica: escribe ocho frases combinando ambos tipos (`Mijn moeder belt me elke dag`, `Wij geven hun het cadeau`). Reescribe las frases invirtiendo el orden para confirmar el uso correcto.
+Práctica: escribe ocho frases combinando ambos tipos (`Mijn moeder belt me elke dag`, `Wij geven hun het cadeau`). Reescribe las frases invirtiendo el orden para confirmar el uso correcto.
 
-## 3. Numeros a partir de 100
+## 3. Números a partir de 100
 
 - Centenas: `honderd`, `tweehonderd`, `driehonderd`.  
 - Ejemplos: `125 = honderd vijfentwintig`, `342 = driehonderd tweeenveertig`, `999 = negenhonderd negenennegentig`.  
 - Mil: `duizend`, `1500 = vijftienhonderd` o `duizend vijfhonderd`.  
 - Precios: `Het kost tweehonderd euro`, `Deze jas kost duizend driehonderd negenennegentig euro`.
 
-**Practica**: anota diez numeros (100-1500), dos precios y dos cantidades grandes (habitantes, pasos). Escribe cada uno en neerlandes y repite en voz alta para fijar la pronunciacion.
+**Práctica**: anota diez números (100-1500), dos precios y dos cantidades grandes (habitantes, pasos). Escribe cada uno en neerlandes y repite en voz alta para fijar la pronunciación.
 
 ## 4. Simulacion de examen final
 
-1. **Dictado**: elige veinte palabras de las listas trabajadas (familia, casa, cuerpo, verbos). Escribe las palabras sin mirar y revisa la ortografia.
-2. **Descripcion**: redacta cinco frases sobre tu dia incluyendo pasado y presente (`Gisteren heb ik gestudeerd. Vandaag werk ik thuis.`).
-3. **Lectura**: toma un parrafo breve (o usa la seccion de lectura de esta leccion) y responde tres preguntas en neerlandes; evalua comprension y acceso a vocabulario.
+1. **Dictado**: elige veinte palabras de las listas trabajadas (familia, casa, cuerpo, verbos). Escribe las palabras sin mirar y revisa la ortografía.
+2. **Descripción**: redacta cinco frases sobre tu dia incluyendo pasado y presente (`Gisteren heb ik gestudeerd. Vandaag werk ik thuis.`).
+3. **Lectura**: toma un parrafo breve (o usa la sección de lectura de esta lección) y responde tres preguntas en neerlandes; evalua comprension y acceso a vocabulario.
 
 Registra el tiempo que tardas y revisa si dominas el nivel A1 sin consultar diccionario.
 
@@ -76,15 +76,15 @@ Actividades:
 - Mantener un diario breve: cinco lineas diarias con pasado y futuro.  
 - Revisar participios irregulares cada semana; crear tarjetas con ejemplos.  
 - Leer articulos cortos en neerlandes (noticias faciles, blogs) y subrayar conectores.  
-- Preparar una lista de preguntas tipicas de vida diaria (trabajo, estudio, transporte) para practicarlas en A2.  
+- Preparar una lista de preguntas tipicas de vida diaria (trabajo, estudio, transporte) para prácticarlas en A2.  
 - Elegir un tema cultural cada mes (fiestas, comida, historia) y escribir un parrafo.
 
 ## 7. Checklist final
 
 1. Converti oraciones en preguntas y revise el orden.  
 2. Practique posesivos y pronombres objeto en frases reales.  
-3. Escribi numeros de tres y cuatro cifras correctamente.  
-4. Realice el dictado, la descripcion y la lectura del examen final.  
+3. Escribi números de tres y cuatro cifras correctamente.  
+4. Realice el dictado, la descripción y la lectura del examen final.  
 5. Escribi un mensaje de despedida inspirado en "Palabras de amor".  
 6. Defini tres objetivos concretos para iniciar A2.
 
@@ -93,16 +93,16 @@ Marca cada punto al completarlo para asegurar el cierre del nivel.
 ## Recursos complementarios
 
 - `../Vocabulario/Vocabulario3.md` para seguir repasando listas generales.  
-- `../Ejercicios/Ejercicio_NumerosFamilia.md` para consolidar numeros y parentescos.  
-- `../Gramatica/Pronombres.md` (si existe en tu vault) o tus propias notas para posesivos/objetos.  
+- `../Ejercicios/Ejercicio_NúmerosFamilia.md` para consolidar números y parentescos.  
+- `../Gramática/Pronombres.md` (si existe en tu vault) o tus propias notas para posesivos/objetos.  
 - Plantillas de diarios en Obsidian para continuar escribiendo sin depender de recursos externos.
 
-## Resumen de la leccion
+## Resumen de la lección
 
 - Reafirmaste la estructura de preguntas y el orden verbo-sujeto.  
-- Practicaste pronombres posesivos y de objeto en contexto.  
-- Escribiste numeros de tres y cuatro cifras con seguridad.  
-- Simulaste un examen final con dictado, descripcion y lectura.  
+- Prácticaste pronombres posesivos y de objeto en contexto.  
+- Escribiste números de tres y cuatro cifras con seguridad.  
+- Simulaste un examen final con dictado, descripción y lectura.  
 - Analizaste "Palabras de amor" para cerrar el curso con motivacion y planificar A2.
 
 ## Palabras nuevas
@@ -119,12 +119,12 @@ Marca cada punto al completarlo para asegurar el cierre del nivel.
 
 ## Consejo cultural
 
-Es habitual en los Paises Bajos despedirse con frases sencillas pero sinceras (`veel succes`, `ik ben trots op je`). Practica cerrar tus mensajes escritos con expresiones amables para fortalecer relaciones sociales mientras avanzas hacia A2.
+Es habitual en los Paises Bajos despedirse con frases sencillas pero sinceras (`veel succes`, `ik ben trots op je`). Práctica cerrar tus mensajes escritos con expresiones amables para fortalecer relaciones sociales mientras avanzas hacia A2.
 
 ## Errores comunes
 
 - Olvidar que en preguntas el verbo va antes del sujeto (`Ga jij...`).  
 - Confundir `hun` (posesivo) con `hen` (objeto).  
-- Escribir numeros compuestos sin `en` (`honderd vijfentwintig`, no `honderdvijfentwintig`).  
+- Escribir números compuestos sin `en` (`honderd vijfentwintig`, no `honderdvijfentwintig`).  
 - Descuidar la consistencia en el examen final (por ejemplo, mezclar presente y pasado sin orden).  
 - Postergar el plan de estudio para A2: escribe objetivos concretos y fechas para mantener el ritmo.

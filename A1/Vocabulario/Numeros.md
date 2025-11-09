@@ -1,8 +1,8 @@
-# Numeros (20-100 y ordinales)
+# Números (20-100 y ordinales)
 
 ## Decenas
 
-| Numero | Holandes | Nota |
+| Número | Holandes | Nota |
 |--------|----------|------|
 | 20 | twintig | Termina en `-tig` (pron. "tej"). |
 | 30 | dertig | D = sonido suave. |
@@ -24,10 +24,10 @@ Estrategia: nombrar primero la unidad, luego la decena, unidos por `en`. Se usa 
 - 1º `eerste`, 2º `tweede`, 3º `derde`.
 - 4º-19º: raiz + `de` (`vierde`, `elfde`, `negentiende`).
 - 20º en adelante: raiz + `ste` (`twintigste`, `zesenzestigste`, `honderdste`).
-- Abreviatura: numero + `e` minúscula (`21e`, `100e`).
+- Abreviatura: número + `e` minúscula (`21e`, `100e`).
 
-## Practica sugerida
+## Práctica sugerida
 
 1. Cuenta en voz alta solo las decenas de 20 a 100.
-2. Escribe diez numeros aleatorios y conviértelos al sistema invertido.
+2. Escribe diez números aleatorios y conviértelos al sistema invertido.
 3. Redacta tres frases con ordinales (fechas, ubicaciones, listas).

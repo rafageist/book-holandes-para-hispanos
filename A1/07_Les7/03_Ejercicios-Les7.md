@@ -41,7 +41,7 @@
 2. Revisa que el verbo conjugado quede al final en la subordinada.  
 3. Reescribe una oracion usando `want` (para comparar estructura principal/subordinada).
 
-## 8. Mini practica de traduccion
+## 8. Mini práctica de traduccion
 
 ### Espanol -> neerlandes
 
@@ -70,7 +70,7 @@
 7. `Wij ____ (opstaan) laat omdat we ____ (zijn) moe.`  
 8. `Volgens mij ____ (moeten) jij niet zo snel ____ (lopen).`
 
-## 10. Lista de palabras dificiles
+## 10. Lista de palabras difíciles
 
 1. Anade cinco verbos irregulares (con preterito y participio), cuatro conectores subordinantes y tres verbos separables a tu inventario NL-ES y ES-NL.  
-2. Escribe una oracion propia para cada palabra y marca la pronunciacion clave.
+2. Escribe una oracion propia para cada palabra y marca la pronunciación clave.

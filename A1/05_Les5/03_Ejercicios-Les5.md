@@ -4,7 +4,7 @@
 
 1. Escribe diez respuestas a `Hoe laat is het?` usando `kwart`, `half`, `voor` y `over`.  
 2. Crea una agenda con cinco actividades (`Om half drie ga ik naar de winkel`).  
-3. Auto dictado: escribe cinco horas en numeros y luego traducelas a palabras.
+3. Auto dictado: escribe cinco horas en números y luego traducelas a palabras.
 
 ## 2. Hora en 24h
 
@@ -26,7 +26,7 @@
 
 ## 5. Casa y tareas
 
-1. Describe cinco habitaciones de tu casa con un adjetivo (`De keuken is klein maar gezellig`).  
+1. Describe cinco habitaciónes de tu casa con un adjetivo (`De keuken is klein maar gezellig`).  
 2. Lista siete tareas domesticas usando los verbos del vocabulario.  
 3. Escribe un parrafo corto sobre tu rutina de limpieza del sabado.
 
@@ -36,7 +36,7 @@
 2. Incluye combinaciones con dos verbos (`Ik wil morgen de woonkamer schilderen`).  
 3. Invierte el orden en la mitad de las oraciones (tiempo al inicio).
 
-## 7. Mini practica de traduccion
+## 7. Mini práctica de traduccion
 
 ### Espanol -> neerlandes
 
@@ -70,10 +70,10 @@
 1. Copia cuatro versos y marca las palabras de tiempo y emocion.  
 2. Escribe un resumen de tres frases en espanol.  
 3. Redacta dos oraciones en neerlandes inspiradas en la lectura.  
-4. Practica la pronunciacion de `ee` y `ie` leyendo en voz alta.
+4. Práctica la pronunciación de `ee` y `ie` leyendo en voz alta.
 
-## 10. Lista de palabras dificiles
+## 10. Lista de palabras difíciles
 
 1. Elige cinco palabras de hora, cinco de familia y cinco de casa.  
-2. Para cada una escribe: traduccion, frase propia y pista de pronunciacion.  
+2. Para cada una escribe: traduccion, frase propia y pista de pronunciación.  
 3. Revisa la lista al final de la semana y marca cuales ya dominas.

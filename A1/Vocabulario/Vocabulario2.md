@@ -1,8 +1,8 @@
 ﻿# Vocabulario 2 - Rutina y espacios cotidianos
 
-Este bloque amplía el repertorio básico que aparece en las primeras lecciones. Practica objetos del hogar, verbos frecuentes y expresiones útiles para describir tu día.
+Este bloque amplía el repertorio básico que aparece en las primeras lecciónes. Práctica objetos del hogar, verbos frecuentes y expresiones útiles para describir tu día.
 
-## Objetos y habitaciones
+## Objetos y habitaciónes
 
 | Holandés | Español | Nota |
 |----------|---------|------|
@@ -42,7 +42,7 @@ Uso recomendado: reemplaza el sustantivo resaltado y vuelve a leer la frase en v
 
 ## Mini práctica escrita
 
-1. Describe tu casa en cuatro frases. Incluye al menos dos habitaciones y un objeto con su ubicación (`op`, `naast`, `achter`).
+1. Describe tu casa en cuatro frases. Incluye al menos dos habitaciónes y un objeto con su ubicación (`op`, `naast`, `achter`).
 2. Completa las frases con un verbo del cuadro:
    - `Ik ____ om zes uur op.`
    - `Wij ____ de woonkamer schoon.`

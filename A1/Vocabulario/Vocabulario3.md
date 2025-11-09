@@ -1,6 +1,6 @@
 ﻿# Vocabulario 3 - Profesiones y lugares de trabajo
 
-Este bloque acompaña las lecciones de familia, planificación y metas profesionales. Incluye profesiones comunes, lugares y expresiones útiles para hablar de tareas laborales o académicas.
+Este bloque acompaña las lecciónes de familia, planificación y metas profesionales. Incluye profesiones comunes, lugares y expresiones útiles para hablar de tareas laborales o académicas.
 
 ## Profesiones y cargos
 
@@ -57,4 +57,4 @@ Este bloque acompaña las lecciones de familia, planificación y metas profesion
 3. Traduce al neerlandés: “Ella estudia enfermería en la universidad y trabaja medio tiempo en una tienda”.
 4. Diseña una tarjeta de presentación simple (Nombre, profesión, empresa, teléfono) usando vocabulario neerlandés.
 
-> Consejo: Mezcla estas palabras con los ejercicios de las lecciones 5 y 6 para practicar verbos en presente y ordenar la oración cuando el tiempo va al inicio.
+> Consejo: Mezcla estas palabras con los ejercicios de las lecciónes 5 y 6 para prácticar verbos en presente y ordenar la oración cuando el tiempo va al inicio.

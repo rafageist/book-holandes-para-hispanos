@@ -1,5 +1,5 @@
 ﻿---
-title: "Leccion 2 - Pronombres y consonantes"
+title: "Lección 2 - Pronombres y consonantes"
 lesson: 02
 tags: [pronombres, fonetica, habitos, cultura]
 ---
@@ -10,7 +10,7 @@ La segunda unidad consolida la base fonetica iniciada en Les1 y agrega herramien
 
 ## Objetivos
 
-- Diferenciar las formas JE/JIJ, JULLIE y U segun grado de formalidad y numero de interlocutores.
+- Diferenciar las formas JE/JIJ, JULLIE y U segun grado de formalidad y número de interlocutores.
 - Pronunciar consonantes y combinaciones frecuentes sin arrastrar sonidos del espanol.
 - Usar DOEN vs MAKEN, GOED/LEUK/LEKKER y GRAAG GEDAAN en situaciones cotidianas.
 - Describir el horario del dia, los cinco sentidos y rutinas de estudio en presente.
@@ -33,10 +33,10 @@ La segunda unidad consolida la base fonetica iniciada en Les1 y agrega herramien
 Pautas clave extraidas de la clase:
 
 - JE/JIJ y ZIJ/ZE son intercambiables, pero la forma con consonante final marcada enfatiza a la persona.
-- U exige pronunciacion clara y tono formal (personas mayores, clientes, autoridades). Si debes hablarle a varias personas formalmente, mantienes el verbo en singular: `U eet elke dag een appel` puede significar "usted come" o "ustedes comen".
+- U exige pronunciación clara y tono formal (personas mayores, clientes, autoridades). Si debes hablarle a varias personas formalmente, mantienes el verbo en singular: `U eet elke dag een appel` puede significar "usted come" o "ustedes comen".
 - JULLIE se pronuncia con doble consonante (`yul-li`) porque la L se duplica; es exclusivo para plural informal.
 
-### Micro practica
+### Micro práctica
 
 1. Lee en voz alta: `Jij eet een appel`, `Je eet een appel`, `U eet een appel`, `Jullie eten een appel`.
 2. Cambia frases del plural informal al formal singular sin perder el sentido.
@@ -48,7 +48,7 @@ Pautas clave extraidas de la clase:
 - **Gracias**: `dank je (wel)` informal, `dank u (wel)` formal, `bedankt` neutro.
 - **De nada / con gusto**: `graag gedaan`. Usalo tras recibir un agradecimiento para sonar natural.
 
-## Consonantes y combinaciones que requieren practica
+## Consonantes y combinaciones que requieren práctica
 
 | Sonido | Regla / consejo | Ejemplos textuales |
 |--------|-----------------|--------------------|
@@ -60,11 +60,11 @@ Pautas clave extraidas de la clase:
 | SCH | Empieza con silbido (s + piropo) seguido de CH. | `school`, `schrijven`, `schoenen`. |
 | Combinaciones con J | IJ/ei suenan como "ai". Evita decir `yur` para `huur`; usa el truco de pronunciar I con labios en U. | `vrij`, `huis`, `huur`. |
 
-Practica recomendada:
+Práctica recomendada:
 
 1. Alterna pares que cambian un solo sonido (`bos/boos/baas`, `root/groot`, `douche/duik`).
 2. Repite listas cortas con NG para automatizar el cierre nasal (koning, jongen, lang, spring, belangrijk).
-3. Escribe las palabras "como las pronuncias" (metodo mencionado en clase) antes de verificar la ortografia real.
+3. Escribe las palabras "como las pronuncias" (metodo mencionado en clase) antes de verificar la ortografía real.
 
 ## Verbos y adjetivos funcionales
 
@@ -76,13 +76,13 @@ Practica recomendada:
 
 ### GOED, LEUK y LEKKER
 
-- **GOED**: opuesto a mal; para estados, evaluaciones o resultados (`Het was goed`, `Alles is goed`).
+- **GOED**: opuesto a mal; para estados, evaluaciónes o resultados (`Het was goed`, `Alles is goed`).
 - **LEUK**: opinion positiva/entretenida (peliculas, fiestas, clase). No responde a "como estas".
 - **LEKKER**: sabores, bebidas y sensaciones corporales (comer, bailar, tomar sol, dormir). Evita decir `rijk` porque describe riqueza economica.
 
 ### Cortesia aplicada
 
-Practica dialogos cortos siguiendo el flujo real:
+Práctica dialogos cortos siguiendo el flujo real:
 
 ```
 - Mag ik een koffie, alstublieft?
@@ -95,8 +95,8 @@ Practica dialogos cortos siguiendo el flujo real:
 
 La docente insiste en dos ideas:
 
-1. **Medir es saber**: cada semana actualiza tu inventario de palabras con columnas NL->ES, ES->NL y pronunciacion dificil. Selecciona 5 palabras diarias, pegala en la casa y formate frases.
-2. **Habito diario (aprox. 2 horas)**: repite el contenido viejo y agrega uno nuevo; combina una app de tarjetas sencilla, libros impresos y escritura fonetica. Practica conversando aunque solo conozcas el presente.
+1. **Medir es saber**: cada semana actualiza tu inventario de palabras con columnas NL->ES, ES->NL y pronunciación difícil. Seleccióna 5 palabras diarias, pegala en la casa y formate frases.
+2. **Habito diario (aprox. 2 horas)**: repite el contenido viejo y agrega uno nuevo; combina una app de tarjetas sencilla, libros impresos y escritura fonetica. Práctica conversando aunque solo conozcas el presente.
 
 ## Vocabulario tematico
 
@@ -126,23 +126,23 @@ La docente insiste en dos ideas:
 - Lleva tus medicamentos desde tu pais: en Paises Bajos casi todo requiere receta.
 - Expresiones clave: `Ik voel me niet goed`, `Ik maak een afspraak bij de huisarts`, `Ik moet uitzieken`.
 
-## Practica guiada
+## Práctica guiada
 
 1. **Pronombres al ritmo** (Tarea 2): copia la tabla superior y escribe 10 oraciones mezclando JE/JIJ, JULLIE y U. Lee en voz alta frente a un espejo.
 2. **Consonantes en contexto** (Tareas 3-5): arma tres columnas con F/V/B/W, CH/SCH y NG; anade cinco palabras en cada una y subraya la vocal que cambia el sonido.
 3. **Abecedario activo** (Tarea 6): recita el alfabeto deletreando tu nombre, direccion y correo. Anota letras conflictivas (G, J, Y) y repite hasta que salga fluido.
 4. **Vocabularios 4-6** (Tareas 7-9): integra las listas en tu app o cuaderno de tarjetas, marca "Dificil" y combina con dictados caseros.
-5. **Definiciones de tiempo** (Tarea 10): crea una linea de tiempo con las franjas `ochtend, middag, namiddag, avond, nacht`. Practica preguntas como `Hoe laat is de afspraak? Is dat 's avonds of 's middags?`
+5. **Definiciones de tiempo** (Tarea 10): crea una linea de tiempo con las franjas `ochtend, middag, namiddag, avond, nacht`. Práctica preguntas como `Hoe laat is de afspraak? Is dat 's avonds of 's middags?`
 6. **Actividad cultural**: escribe un parrafo corto sobre tu experiencia en el medico usando `huisarts`, `uitzieken`, `paracetamol`.
 
 ## Consonantes clave (F/V/B/W, CH/SCH, NG, G)
 
-- **F / V / B / W**: la V neerlandesa vibra levemente (como una mezcla entre F y B). Practica pares `fijn/vijn`, `bos/was`, `bier/wier` para oir el contraste.  
+- **F / V / B / W**: la V neerlandesa vibra levemente (como una mezcla entre F y B). Práctica pares `fijn/vijn`, `bos/was`, `bier/wier` para oir el contraste.  
 - **CH / SCH**: `ch` se pronuncia como una “j” fuerte (garganta). `sch` inicia con S + CH (`school`, `schoenen`).  
 - **NG**: siempre nasalizada. `ng` al final suena como “ng” inglesa (`koning`, `lang`). Si se agrega una G extra (`ngg`), la G se pronuncia (`zingen` → /zinguen/).  
 - **G**: aspirada, similar a una “j” castellana fuerte. Mantén la boca abierta y suelta el aire desde la garganta.
 
-Ejercicio rápido: lee en voz alta `fan/van`, `bier/wier`, `schip/schap`, `weg/reg`, `dingen/dingen` (distinguiendo NG y G). Marca en tu cuaderno cuáles combinaciones siguen sonando “españolas” y vuelve a practicarlas frente a un espejo.
+Ejercicio rápido: lee en voz alta `fan/van`, `bier/wier`, `schip/schap`, `weg/reg`, `dingen/dingen` (distinguiendo NG y G). Marca en tu cuaderno cuáles combinaciones siguen sonando “españolas” y vuelve a prácticarlas frente a un espejo.
 
 ## Vocabulario del día y los sentidos
 
@@ -167,22 +167,22 @@ Aplica estas palabras para describir tu día (`Om zeven uur sta ik op`, `Ik voel
 ## Notas culturales (Casa de Oranje-Nassau)
 
 - **Monarquía y colores**: el color naranja proviene de la Casa de Oranje-Nassau. Verás banderas con la banda naranja añadida (“prinsenvlag”) en fiestas nacionales.  
-- **Himno (Wilhelmus)**: es uno de los más antiguos del mundo y describe la lealtad a William of Orange. Para practicar lectura, imprime la primera estrofa y subraya las combinaciones `ij` y `sch`.  
+- **Himno (Wilhelmus)**: es uno de los más antiguos del mundo y describe la lealtad a William of Orange. Para prácticar lectura, imprime la primera estrofa y subraya las combinaciones `ij` y `sch`.  
 - **Bandera actual**: rojo‑blanco‑azul; recuerda que el rojo era originalmente naranja pero se oscureció con el tiempo. Estos datos ayudan en conversaciones sencillas sobre cultura y feriados.
 
 ## Rutina del día (estructura 24h)
 
 1. Escribe una línea temporal de 5 eventos con formato de 24 horas (`07:30 opstaan`, `08:00 ontbijten`, etc.).  
 2. Convierte cada evento en oración: `Om zeven uur sta ik op`, `Om acht uur ontbijt ik`.  
-3. Cambia dos frases al modo pregunta para practicar orden inverso (`Sta jij om zes uur op?`).  
+3. Cambia dos frases al modo pregunta para prácticar orden inverso (`Sta jij om zes uur op?`).  
 4. Añade un bloque de sensación/salud (`Ik voel me moe in de middag`, `Mijn neus ruikt koffie om tien uur`).  
 5. Termina con una frase cortés si hablas de actividades ajenas: `Dank je voor de hulp – Graag gedaan`.
 
 ## Checklist de tareas (oficial Les2)
 
 1. Tarea 1: repasar toda la clase.
-2. Tarea 2: estudiar pronombres personales (tabla + autoevaluacion escrita).
-3. Tarea 3: practicar consonantes problematicas.
+2. Tarea 2: estudiar pronombres personales (tabla + autoevaluación escrita).
+3. Tarea 3: prácticar consonantes problematicas.
 4. Tarea 4: combinar nuevas secuencias (IJ, UI, OE, etc.).
 5. Tarea 5: discriminar F-V-B-W.
 6. Tarea 6: repasar el abecedario deletreando datos reales.
@@ -191,13 +191,13 @@ Aplica estas palabras para describir tu día (`Om zeven uur sta ik op`, `Ik voel
 9. Tarea 9: aprender Vocabulario 6.
 10. Tarea10: memorizar definiciones de tiempo (manana, tarde, noche).
 
-Marca cada tarea cuando completes una ronda (lectura + escritura + practica oral).
+Marca cada tarea cuando completes una ronda (lectura + escritura + práctica oral).
 
 ## Recursos complementarios
 
-- `../Pronunciacion/Consonantes.md` para repasar reglas.
+- `../Pronunciación/Consonantes.md` para repasar reglas.
 - `../Vocabulario/` para ampliar los bloques 4-6.
-- `../Gramatica/VerboSerEstar.md` y `../Gramatica/VerboTener.md` para conjugar con los pronombres.
+- `../Gramática/VerboSerEstar.md` y `../Gramática/VerboTener.md` para conjugar con los pronombres.
 - `../Ejercicios/` para dictados y cruces adicionales.
 - Lecturas recomendadas: resumen cultural sobre Oranje‑Nassau, tabla comparativa `doen/maken`, listado de sentidos y expresiones de cortesía (`graag gedaan`, `alsjeblieft`).
 

@@ -12,7 +12,7 @@
 2. Reescribe esas frases sustituyendo el complemento directo por un pronombre objeto (`Ik geef haar het boek` -> `Ik geef het aan haar`).  
 3. Disena un mini dictado: redacta cinco oraciones con un hueco y completa con el pronombre correcto.
 
-## 3. Numeros 100+
+## 3. Números 100+
 
 1. Elige diez cifras entre 100 y 1.500 y escribelas en neerlandes.  
 2. Incluye tres precios y dos cantidades grandes (habitantes, kilometros).  
@@ -21,8 +21,8 @@
 ## 4. Simulacion de examen
 
 1. Dictado de veinte palabras tomadas de las listas trabajadas (familia, casa, cuerpo, verbos).  
-2. Descripcion escrita: `Beschrijf jouw dag in vijf zinnen` usando pasado y presente continuo.  
-3. Comprension lectora: usa el texto de la leccion, responde tres preguntas en neerlandes y escribelas en tu cuaderno.
+2. Descripción escrita: `Beschrijf jouw dag in vijf zinnen` usando pasado y presente continuo.  
+3. Comprension lectora: usa el texto de la lección, responde tres preguntas en neerlandes y escribelas en tu cuaderno.
 
 ## 5. Carta de despedida
 

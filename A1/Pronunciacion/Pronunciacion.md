@@ -1,6 +1,6 @@
-# Pronunciacion
+# Pronunciación
 
-Nota índice de `Pronunciacion`.
+Nota índice de `Pronunciación`.
 
 Enlaces:
 

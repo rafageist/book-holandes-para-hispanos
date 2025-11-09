@@ -1,12 +1,12 @@
 ---
-title: "Leccion 4 - Matices de vocabulario y emociones"
+title: "Lección 4 - Matices de vocabulario y emociones"
 lesson: 04
 tags: [modales, hogar, emociones, animales, lectura]
 ---
 
 ## Panorama
 
-En la cuarta unidad nos concentramos en los matices que dan naturalidad al neerlandes cotidiano. Profundizamos en los verbos modales `kunnen` y `mogen`, afinamos pares habituales como `huis/thuis` o `praten/spreken`, repasamos posesivos frente a articulos indefinidos, practicamos intensificadores (`heel`, `veel`, `erg`) y expresiones de cantidad (`half`, `halve`, `de helft`). La leccion se complementa con vocabulario tematico de emociones y animales, ademas de una lectura guiada basada en el texto lirico "Een moment" para ejercitar comprension y empatia.
+En la cuarta unidad nos concentramos en los matices que dan naturalidad al neerlandes cotidiano. Profundizamos en los verbos modales `kunnen` y `mogen`, afinamos pares habituales como `huis/thuis` o `praten/spreken`, repasamos posesivos frente a articulos indefinidos, prácticamos intensificadores (`heel`, `veel`, `erg`) y expresiones de cantidad (`half`, `halve`, `de helft`). La lección se complementa con vocabulario tematico de emociones y animales, ademas de una lectura guiada basada en el texto lirico "Een moment" para ejercitar comprension y empatia.
 
 ## Objetivos
 
@@ -53,7 +53,7 @@ En espanol ambas frases usan "poder". En neerlandes la diferencia es obligatoria
 | `zien` vs `kijken` | `zien` es percibir sin esfuerzo; `kijken` es observar activamente. | `Ik zie de maan.` / `Ik kijk naar de maan.` |
 | `horen` vs `luisteren` | `horen` es oir; `luisteren (naar)` implica atencion. | `Ik hoor muziek.` / `Ik luister naar rustige muziek.` |
 
-Practica sustituyendo cada verbo por su par y comenta en espanol como cambia la intencion. Esta comparacion constante te ayudara a recordar que el neerlandes distingue acciones que en espanol comparten traduccion.
+Práctica sustituyendo cada verbo por su par y comenta en espanol como cambia la intencion. Esta comparacion constante te ayudara a recordar que el neerlandes distingue acciones que en espanol comparten traduccion.
 
 ## 3. Hogar, amistades y preposiciones
 
@@ -85,11 +85,11 @@ Para fijar la diferencia con el espanol, recuerda que "muy" no puede modificar s
 | Tengo media hora libre. | `Ik heb een half uur vrij.` |
 | Comemos media manzana. | `We eten een halve appel.` |
 | Solo necesito la mitad del libro. | `Ik heb maar de helft van het boek nodig.` |
-| Hay muchas preguntas muy dificiles. | `Er zijn heel veel erg moeilijke vragen.` |
+| Hay muchas preguntas muy difíciles. | `Er zijn heel veel erg moeilijke vragen.` |
 
 ## 5. Emociones basicas
 
-| Neerlandes | Pronunciacion aproximada | Espanol | Ejemplo |
+| Neerlandes | Pronunciación aproximada | Espanol | Ejemplo |
 |------------|-------------------------|---------|---------|
 | `blij` | blai | contento | `Ik ben blij met mijn werk.` |
 | `boos` | bos | enojado | `Hij is boos omdat de trein te laat is.` |
@@ -113,7 +113,7 @@ Organiza los animales en categorias para memorizarlos mejor.
 - Animales salvajes: `de leeuw`, `de tijger`, `de olifant`, `de giraf`, `de aap`.
 - Insectos y pequenos: `de mug`, `de mier`, `de spin`, `de vlinder`, `de muis`.
 
-Practica pluralizando (`de honden`, `de kippen`, `de vissen`) y agregando adjetivos: `De hond is heel speels`, `Het schaap is erg rustig`.
+Práctica pluralizando (`de honden`, `de kippen`, `de vissen`) y agregando adjetivos: `De hond is heel speels`, `Het schaap is erg rustig`.
 
 ## 7. Lectura guiada: "Een moment"
 
@@ -139,7 +139,7 @@ Usa el texto lirico como lectura reflexiva. El objetivo no es cantar sino analiz
 | Emocion | `Ik voel me een beetje nerveus voor het examen.` | Me siento un poco nervioso por el examen. |
 | Animales | `Het paard is heel sterk en rustig.` | El caballo es muy fuerte y tranquilo. |
 
-## 9. Mini practica de traduccion
+## 9. Mini práctica de traduccion
 
 ### Espanol -> neerlandes
 1. Hoy no puedo salir, pero puedo estudiar en casa.  
@@ -173,35 +173,35 @@ Completa con la palabra correcta (modales, intensificadores o vocabulario de hog
 ## 11. Actividad de escritura y lectura
 
 1. Redacta un parrafo corto sobre tu rutina vespertina usando al menos dos emociones, un modal y una expresion de cantidad.  
-2. Intercambia funciones de sujeto y complemento para practicar el orden: `Morgen mag ik thuis werken` -> `Thuis mag ik morgen werken`.  
+2. Intercambia funciones de sujeto y complemento para prácticar el orden: `Morgen mag ik thuis werken` -> `Thuis mag ik morgen werken`.  
 3. Toma cualquier fragmento de "Een moment" y responde:  
    - ?Que valor destaca el autor?  
    - Escribe una frase en neerlandes que replique esa idea en tu vida diaria.  
-4. Guarda tus respuestas en tu inventario de palabras dificiles; marca cuales necesitan repasarse la proxima semana.
+4. Guarda tus respuestas en tu inventario de palabras difíciles; marca cuales necesitan repasarse la proxima semana.
 
 ## 12. Checklist de tareas
 
 1. Repetiste las tablas de `kunnen` y `mogen` en presente.  
 2. Escribiste oraciones que contrastan `huis/thuis`, `praten/spreken`, `zorgen/oppassen`.  
 3. Elaboraste una lista de emociones con ejemplos personales.  
-4. Redactaste descripciones de al menos cinco animales con adjetivos.  
-5. Practicaste cantidades con `half`, `halve`, `de helft` y revisaste intensificadores.  
+4. Redactaste descripciónes de al menos cinco animales con adjetivos.  
+5. Prácticaste cantidades con `half`, `halve`, `de helft` y revisaste intensificadores.  
 6. Leiste y resumiste "Een moment" con tus propias palabras.  
-7. Actualizaste tu inventario de palabras dificiles y lo comparaste con semanas anteriores.  
+7. Actualizaste tu inventario de palabras difíciles y lo comparaste con semanas anteriores.  
 Marca cada paso al completarlo para asegurar avance constante.
 
 ## Recursos vinculados
 
 - `../Vocabulario/Vocabulario.md` para ampliar listas tematicas.  
-- `../Pronunciacion/Consonantes.md` para repasar grupos como `sch`, `ng`, `nk` antes de la lectura.  
-- `../Ejercicios/Ejercicio_Colores.md` para combinar emociones con descripciones cromaticas.  
+- `../Pronunciación/Consonantes.md` para repasar grupos como `sch`, `ng`, `nk` antes de la lectura.  
+- `../Ejercicios/Ejercicio_Colores.md` para combinar emociones con descripciónes cromaticas.  
 - Tarjetas personalizadas en el vault para emociones y animales.
 
-## Resumen de la leccion
+## Resumen de la lección
 
 - Diferenciaste los modales `kunnen` y `mogen` aplicandolos a situaciones reales de capacidad y permiso.  
 - Afinaste pares de vocabulario (`huis/thuis`, `praten/spreken`, `zorgen/oppassen`) y reforzaste el uso correcto de preposiciones `op/over`.  
-- Practicaste cantidades (`half`, `halve`, `de helft`) junto con intensificadores que expresan grado (`heel`, `veel`, `erg`).  
+- Prácticaste cantidades (`half`, `halve`, `de helft`) junto con intensificadores que expresan grado (`heel`, `veel`, `erg`).  
 - Ampliaste el vocabulario de emociones y animales para describir estados de animo y escenas cotidianas.  
 - Analizaste el texto "Een moment" como lectura reflexiva y lo conectaste con tus propias experiencias.
 
@@ -220,7 +220,7 @@ Marca cada paso al completarlo para asegurar avance constante.
 
 ## Consejo cultural o linguistico
 
-En Paises Bajos es habitual pedir permiso explicito incluso en contextos informales (`Mag ik even zitten?`). Practica este tipo de cortesia escrita para internalizar el contraste entre `kan` y `mag`. Al describir reuniones familiares o visitas a amigos, menciona si te quedas `thuis` o vas `naar huis`, lo cual demuestra sensibilidad cultural hacia el concepto de hogar.
+En Paises Bajos es habitual pedir permiso explicito incluso en contextos informales (`Mag ik even zitten?`). Práctica este tipo de cortesia escrita para internalizar el contraste entre `kan` y `mag`. Al describir reuniones familiares o visitas a amigos, menciona si te quedas `thuis` o vas `naar huis`, lo cual demuestra sensibilidad cultural hacia el concepto de hogar.
 
 ## Errores comunes
 

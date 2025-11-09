@@ -1,5 +1,5 @@
 ﻿---
-title: "Vocabulario - Leccion 1"
+title: "Vocabulario - Lección 1"
 level: A1
 ---
 
@@ -10,11 +10,11 @@ Las listas de esta unidad provienen de las cinco partes de la clase y de las gu�
 1. Pares minimos para fijar vocales cortas/largas y diptongos.
 2. Palabras funcionales de la clase (objetos, acciones).
 3. Colores basicos + variantes claro/oscuro.
-4. Frutas (singular/plural) para practicar articulos `de`.
+4. Frutas (singular/plural) para prácticar articulos `de`.
 
-Integra cada bloque en tu inventario personal (NL->ES y ES->NL) y marca las palabras que siguen siendo dificiles.
+Integra cada bloque en tu inventario personal (NL->ES y ES->NL) y marca las palabras que siguen siendo difíciles.
 
-## Pares minimos y pronunciacion
+## Pares minimos y pronunciación
 
 | Contraste | Palabra NL | Espanol | Pista |
 |-----------|------------|---------|-------|
@@ -34,9 +34,9 @@ Integra cada bloque en tu inventario personal (NL->ES y ES->NL) y marca las pala
 | CH / SCH | `school` | escuela | Empieza con silbido (s + piropo) y remata con CH. |
 | CH francesa | `douche` | ducha | Prestamo frances -> "sh". |
 
-Practica: escribe cada par tal como lo pronuncias, luego verifica la ortografia para evitar confundir sonidos similares (ej. `huur` vs `hoer`).
+Práctica: escribe cada par tal como lo pronuncias, luego verifica la ortografía para evitar confundir sonidos similares (ej. `huur` vs `hoer`).
 
-## Palabras funcionales de la leccion
+## Palabras funcionales de la lección
 
 | Tema | Palabras | Comentario |
 |------|----------|------------|
@@ -44,7 +44,7 @@ Practica: escribe cada par tal como lo pronuncias, luego verifica la ortografia 
 | Conversacion | `graag`, `alsjeblieft/alstublieft`, `dank je/dank u`, `graag gedaan` | Cortesia basica. |
 | Profesiones | `baas` (jefe), `dokter` (medico), `juf` (maestra) | Introduce genero `de`. |
 | Estados | `lekker` (rico/sabroso), `goed` (bien), `leuk` (chevere) | Se reutilizan en Les2. |
-| Verbos modelo | `eten` (comer), `maken` (hacer/crear), `doen` (actividad), `oefenen` (practicar) | Usa los pronombres de Les2. |
+| Verbos modelo | `eten` (comer), `maken` (hacer/crear), `doen` (actividad), `oefenen` (prácticar) | Usa los pronombres de Les2. |
 
 Incluye estas palabras en el inventario semanal y combinalas con los colores y frutas para crear frases completas.
 
@@ -59,11 +59,11 @@ Incluye estas palabras en el inventario semanal y combinalas con los colores y f
 | `de programmeur` | programador | `Ik ben programmeur en werk thuis.` |
 | `de student` | estudiante | `Ik ben student en ik studeer Nederlands.` |
 
-Practica decir `Ik ben ...` + profesion frente al espejo. Presenta tu oficio con confianza, incluso si estas buscando trabajo (`Ik zoek werk als ...`).
+Práctica decir `Ik ben ...` + profesion frente al espejo. Presenta tu oficio con confianza, incluso si estas buscando trabajo (`Ik zoek werk als ...`).
 
 ## Colores (de kleuren)
 
-| Color | Holandes | Pronunciacion rapida |
+| Color | Holandes | Pronunciación rapida |
 |-------|----------|----------------------|
 | Rojo | `rood` | OO larga; D final suena como T. |
 | Blanco | `wit` | I corta. |
@@ -84,7 +84,7 @@ Modificadores:
 
 ## Frutas (het fruit)
 
-Todas son palabras `de`. Practica singular/plural para fijar reglas de plural `-en`.
+Todas son palabras `de`. Práctica singular/plural para fijar reglas de plural `-en`.
 
 | Espanol | Singular | Plural |
 |---------|----------|--------|

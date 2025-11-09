@@ -11,4 +11,4 @@ Vocales largas: aa, ee, ie, oo, uu (ej.: maan, been, dier, boom, muur)
 Ejercicios sugeridos solo con material escrito:
 
 - Lee pares contrastivos: "man — maan", "pen — peen".
-- Practica manteniendo la duración de la vocal larga.
+- Práctica manteniendo la duración de la vocal larga.

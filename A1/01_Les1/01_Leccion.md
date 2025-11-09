@@ -1,23 +1,23 @@
 ﻿---
-title: "Leccion 1 - Vocales y habitos iniciales"
+title: "Lección 1 - Vocales y habitos iniciales"
 level: A1
-tags: [pronunciacion, vocabulario, habitos-estudio]
+tags: [pronunciación, vocabulario, habitos-estudio]
 ---
 
 ## Panorama
 
-Esta primera unidad sienta las bases del curso: afinamos la articulacion para diferenciar vocales cortas y largas, practicamos combinaciones frecuentes (AA, EE, OE, UI, EU) y adoptamos rutinas de estudio que garanticen progreso constante. El material se apoya en las explicaciones escritas de la clase (partes 1-5) y las tareas guiadas de la semana. Desde esta leccion conectamos con el punto 1 del indice de referencia (alfabeto, pronunciacion y silabas) para que domines la relacion entre letras y sonidos antes de entrar a la gramatica.
+Esta primera unidad sienta las bases del curso: afinamos la articulacion para diferenciar vocales cortas y largas, prácticamos combinaciones frecuentes (AA, EE, OE, UI, EU) y adoptamos rutinas de estudio que garanticen progreso constante. El material se apoya en las explicaciones escritas de la clase (partes 1-5) y las tareas guiadas de la semana. Desde esta lección conectamos con el punto 1 del indice de referencia (alfabeto, pronunciación y silabas) para que domines la relacion entre letras y sonidos antes de entrar a la gramática.
 
-## Objetivos de la leccion
+## Objetivos de la lección
 
 - Reconocer la regla de longitud (una consonante mantiene la vocal larga; dos consonantes la vuelven corta) y aplicarla a palabras nuevas.
 - Pronunciar con seguridad la R final y su efecto sobre EE/OO (`oor`, `pier`, `boor`).
 - Diferenciar U y UI: la U suena como la vocal de "hamburguesa", la doble U se obtiene diciendo una "i" con los labios redondeados.
-- Instalar un sistema diario de vocabulario (inventario de palabras dificiles + tarjetas en papel o en una app sencilla/libro/cuaderno).
+- Instalar un sistema diario de vocabulario (inventario de palabras difíciles + tarjetas en papel o en una app sencilla/libro/cuaderno).
 - Completar las primeras tareas tematicas (colores, frutas, vocabularios 2 y 3).
 - Introducir articulos `de/het` y notar que en neerlandes no existe genero masculino/femenino como en espanol; la distincion viene dada por el articulo que memorizaras con cada palabra (conexion con el punto 2 del indice).
 
-## Pronunciacion paso a paso
+## Pronunciación paso a paso
 
 ### 1. Longitud de vocal y consonantes
 
@@ -37,7 +37,7 @@ En Paises Bajos la R suele ser fuerte (casi como la de "perro" en espanol), mien
 ### 3. Vocales problematicas (U y doble U)
 
 - U: recuerda el ejemplo de "hamburguesa". Forma los labios como para decir U en espanol, pero deja que salga un sonido mas cerrado (`zus` = hermana, `rug` = espalda).
-- Doble U / UI: di una "i" con los labios redondeados; de esa forma evitas decir `huur` (alquiler) como "yur" (que en holandes significa prostituta). Practica con `duur` (caro), `buurt` (vecindario) y `muur` (pared).
+- Doble U / UI: di una "i" con los labios redondeados; de esa forma evitas decir `huur` (alquiler) como "yur" (que en holandes significa prostituta). Práctica con `duur` (caro), `buurt` (vecindario) y `muur` (pared).
 - Diptongos frecuentes: `oe` (como "u" inglesa) en `boek`; `eu` intermedia entre "o" y "e"; `ij/ei` parecida a "ay`.
 
 ### 4. Acentos y consonantes finales
@@ -57,34 +57,34 @@ La R suele pronunciarse como en "raton". Segun la region puede suavizarse, pero 
 ### 6. Silabas y ritmo
 
 - Palabras cortas como `boek` tienen una sola silaba, mientras que `familie` tiene cuatro (`fa-mi-lie`). Golpea ligeramente la mesa o chasquea los dedos para notar cuantas silabas aparecen. Esto conecta con el punto 1.3 y 1.4 del indice.
-- El acento tonico suele recaer en la primera silaba (`TAfel`, `WOning`). Cuando se trata de verbos con particula separable (lo veremos a fondo en las lecciones 6 y 7) la particula recibe el acento (`OPstaan`).
+- El acento tonico suele recaer en la primera silaba (`TAfel`, `WOning`). Cuando se trata de verbos con particula separable (lo veremos a fondo en las lecciónes 6 y 7) la particula recibe el acento (`OPstaan`).
 
-## Practica guiada
+## Práctica guiada
 
 1. **Lectura activa**: repasa la guia escrita correspondiente (Partes 1-5) y anota cada nueva regla en tu cuaderno.
 2. **Repeticion**: di cada palabra cinco veces y marca en tu lista si mantienes las consonantes finales.
   3. **Escritura fonetica**: copia la palabra tal como la pronuncias (`stick`, `duur`, `bos`). Esto te ayudara a fijar los sonidos.
   4. **Contraste**: alterna pares minimos (`bos/baas/boos`, `root/groot`) y marca cual es largo o corto.
-  5. **Autoevaluacion**: usa la pauta "medir es saber". Cada semana revisa tu lista para comprobar cuantas palabras dominas (>80% es el objetivo mencionado en clase).
+  5. **Autoevaluación**: usa la pauta "medir es saber". Cada semana revisa tu lista para comprobar cuantas palabras dominas (>80% es el objetivo mencionado en clase).
 
 ## Notas culturales sobre acentos
 
 - Aunque el pais es pequeño, hay muchos acentos. En Haarlem (Holanda Septentrional) se considera el holandes “estandar”; en Belgica las consonantes son mas suaves y la `R` se pronuncia casi como en español.  
 - En Curazao, Aruba y Bonaire el idioma mezcla matices del papiamento, por lo que escuchar distintos acentos ayuda a no depender de uno solo.  
-- Practica la `R` de "raton" y la `G` aspirada antes de experimentar con variantes regionales; domina primero el sonido claro y despues ajustalo al acento local.
+- Práctica la `R` de "raton" y la `G` aspirada antes de experimentar con variantes regionales; domina primero el sonido claro y despues ajustalo al acento local.
 
 ## Lectura guiada: Cancion "Onderweg"
 
 La clase usa la letra de **“Onderweg”** (Abel) como lectura motivacional. En vez de escucharla, trabaja su texto en tres pasos:
 
-1. Copia cuatro versos que contengan diptongos (`ee`, `oo`, `ui`). Marca las combinaciones y vuelve a las reglas de la seccion de vocales.  
+1. Copia cuatro versos que contengan diptongos (`ee`, `oo`, `ui`). Marca las combinaciones y vuelve a las reglas de la sección de vocales.  
 2. Escribe una traduccion libre en español y explica que emocion o imagen te provoca cada linea.  
 3. Localiza al menos dos verbos (`ik wil`, `ik ben`) y crea frases propias con el mismo tiempo verbal.  
 4. Cierra con un mensaje personal inspirado en la cancion: `Ik ga onderweg naar ...` + una frase en español donde describas la meta.
 
 > **Tip:** agrega esta actividad a tu rutina semanal. Cada vez que repases vocales largas, lee la letra y confirma que sigues aplicando la regla de una consonante (larga) vs dos consonantes (corta).
 
-## Practica en la vida diaria
+## Práctica en la vida diaria
 
 Las tareas de esta unidad insisten en “sacar las reglas del cuaderno”:
 
@@ -97,10 +97,10 @@ Las tareas de esta unidad insisten en “sacar las reglas del cuaderno”:
 
 - `De man leest een boek.` (El hombre lee un libro.) Observa la diferencia `man` (corto) vs `maan` (largo).  
 - `Ik hoor een mooi lied.` (Escucho una cancion bonita.) El par `oor` + `mooi` muestra OO larga antes y despues de R.  
-- `Mijn buurvrouw heeft een blauwe muur.` (Mi vecina tiene una pared azul.) Practica `uu` y `ui`.  
+- `Mijn buurvrouw heeft een blauwe muur.` (Mi vecina tiene una pared azul.) Práctica `uu` y `ui`.  
 - `Dit is het huis van mijn zus.` (Esta es la casa de mi hermana.) Contrasta `huis` (diptongo UI) con `zus` (U cerrada).
 
-### Mini practica de traduccion
+### Mini práctica de traduccion
 
 Traduce estas frases al neerlandes. Escribe la respuesta debajo y revisa la longitud de las vocales.
 
@@ -126,7 +126,7 @@ Rellena con la palabra correcta. Observa si necesitas vocal larga (doble) o cort
 
 Respuestas: 1. `man` (cuando son personas) o `maan` si hablas de lunas, segun contexto; 2. `bos`; 3. `zus`; 4. `boek`.
 
-### Lectura y pronunciacion guiada
+### Lectura y pronunciación guiada
 
 Lee el siguiente mini parrafo, luego explica en espanol de que trata. Marca con un lapiz las vocales largas.
 
@@ -141,7 +141,7 @@ A: Hallo! Ik ben Marta. Hoe gaat het?
 B: Goed, dank je. Ik oefen de vocalen. Ik zeg bos, baas en boos.
    (Bien, gracias. Practico las vocales. Digo bosque, jefe y enojado.)
 A: Welke woorden blijven moeilijk?
-   (¿Que palabras siguen siendo dificiles?)
+   (¿Que palabras siguen siendo difíciles?)
 B: De maan en de man. Ik schrijf het nu op.
    (La luna y el hombre. Lo escribo ahora.)
 A: Prima. We lezen samen hardop.
@@ -150,27 +150,27 @@ A: Prima. We lezen samen hardop.
 
 ### Notas culturales
 
-- Muchas calles en Paises Bajos tienen nombres con vocales dobles (`De Boogstraat`, `Oosteinde`). Practicar la lectura en carteles es un ejercicio realista.
+- Muchas calles en Paises Bajos tienen nombres con vocales dobles (`De Boogstraat`, `Oosteinde`). Prácticar la lectura en carteles es un ejercicio realista.
 - En las escuelas neerlandesas las primeras clases de alfabetizacion combinan escritura y lectura; imita ese enfoque copiando palabras mano a mano.
 
 ### Errores comunes al pronunciar
 
-1. **Reducir la R**: si omites la R en `oor`, puede sonar como `oo`. Practica diciendo `ar` fuerte, como en "carro".
+1. **Reducir la R**: si omites la R en `oor`, puede sonar como `oo`. Práctica diciendo `ar` fuerte, como en "carro".
 2. **Confundir UI con UE**: en espanol no existe la combinacion UI cerrada. Piensa en decir "i" sonriendo pero con los labios formando una O.
 3. **Olvidar consonantes finales**: `bos` y `boz` no son lo mismo. Marca las letras finales con subrayado en tus apuntes.
 
 ## Gestion de vocabulario
 
-El curso insiste en construir un inventario vivo de palabras dificiles:
+El curso insiste en construir un inventario vivo de palabras difíciles:
 
 - **Paso 1**: cada vez que estudies un vocabulario nuevo, resalta (o subraya) lo que no recuerdas y pasalo a tu cuaderno. Trabaja en ambos sentidos: NL->ES y ES->NL.
-- **Paso 2**: divide el cuaderno en tres secciones: significado (NL-ES), traduccion inversa (ES-NL) y pronunciacion complicada.
+- **Paso 2**: divide el cuaderno en tres secciónes: significado (NL-ES), traduccion inversa (ES-NL) y pronunciación complicada.
 - **Paso 3**: elige 5 palabras de esa lista cada dia, pegala en la nevera o espejo y forma frases con ellas ("Ik heb een rood boek", "Hij is boos").
 - **Paso 4**: cada semana realiza un miniexamen casero. Lo que aun no domines vuelve a la lista; lo que ya dominas se tacha para ver el progreso.
 
 Herramientas recomendadas:
 
-- **Aplicacion de tarjetas** para jugar, combinar listas o marcar terminos dificiles. Si tu telefono muestra un aviso de permisos, desinstala la app, reinicia el dispositivo, actualiza el sistema y vuelve a instalar; mientras tanto puedes entrar desde el navegador o trabajar en computadora.
+- **Aplicacion de tarjetas** para jugar, combinar listas o marcar terminos difíciles. Si tu telefono muestra un aviso de permisos, desinstala la app, reinicia el dispositivo, actualiza el sistema y vuelve a instalar; mientras tanto puedes entrar desde el navegador o trabajar en computadora.
 - **Guias foneticas**: lee en voz alta siguiendo los ejemplos incluidos en este libro para conectar grafia y sonido.
 - **Etiquetas en casa**: pega tarjetas en objetos cotidianos (colores, frutas, profesiones).
 
@@ -182,7 +182,7 @@ Herramientas recomendadas:
 | `het boek` | el libro | `het` se usa con muchos neutros; memorizalo con la palabra. |
 | `de stoel` | la silla | Vocal corta + consonante doble en plural: `stoelen`. |
 
-### Mini practica 2 (de ES a NL y NL a ES)
+### Mini práctica 2 (de ES a NL y NL a ES)
 
 Traduce al espanol:
 
@@ -200,7 +200,7 @@ Soluciones sugeridas:
 3. `Mijn zus drinkt water.`  
 4. `Wij wonen in Utrecht.`  
 
-Observa que el verbo se conjuga segun el pronombre (tema del punto 3 del indice). Aunque el foco principal de esta leccion es la pronunciacion, siempre es util conectar con el presente sencillo.
+Observa que el verbo se conjuga segun el pronombre (tema del punto 3 del indice). Aunque el foco principal de esta lección es la pronunciación, siempre es util conectar con el presente sencillo.
 
 ### Ejercicio de relleno con articulos
 
@@ -211,11 +211,11 @@ Completa con `de` o `het`.
 3. ___ stoel  
 4. ___ boek  
 
-Respuestas: 1. `de`, 2. `het`, 3. `de`, 4. `het`. En espanol usamos genero gramatical, pero en neerlandes el genero es lexical: memorizas el articulo junto con la palabra.
+Respuestas: 1. `de`, 2. `het`, 3. `de`, 4. `het`. En espanol usamos genero gramátical, pero en neerlandes el genero es lexical: memorizas el articulo junto con la palabra.
 
 ### Actividad escrita: diario de sonidos
 
-Escribe tres lineas describiendo los sonidos que practicastes hoy. Ejemplo:
+Escribe tres lineas describiendo los sonidos que prácticastes hoy. Ejemplo:
 
 > `Vandaag oefen ik de lange aa. Ik schrijf maan en maak een zin. Ik oefen ook ui en schrijf huis.`
 
@@ -230,14 +230,14 @@ Traduccion: Hoy practico la doble aa. Escribo "luna" y hago una frase. Tambien p
 > **A:** Leuk! Ik heb een lijst met woorden moeilijk. We oefenen samen?  
 > **B:** Ja, graag. Ik schrijf vijf woorden op de spiegel.
 
-Usa el dialogo para practicar la R final, el contraste O/OO y la expresion `ik heb` (yo tengo).
+Usa el dialogo para prácticar la R final, el contraste O/OO y la expresion `ik heb` (yo tengo).
 
 ## Checklist de tareas (semana 1)
 
 - **Tarea 1**: repasar todo el contenido visto en clase (Partes 1-5).
-- **Tarea 2**: practicar las vocales con la guia escrita de apoyo.
+- **Tarea 2**: prácticar las vocales con la guia escrita de apoyo.
 - **Tarea 3**: repetir las combinaciones de vocales (AA, EE, IE, OE, EU, UI).
-- **Tarea 4**: repasar el articulo `de/het` con ejemplos cortos (ver `../Gramatica/ArticulosDefinidosIndefinidos.md`).
+- **Tarea 4**: repasar el articulo `de/het` con ejemplos cortos (ver `../Gramática/ArticulosDefinidosIndefinidos.md`).
 - **Tarea 5**: aprender Vocabulario 2 (palabras de uso cotidiano).
 - **Tarea 6**: aprender Vocabulario 3 (profesiones basicas).
 - **Tarea 7**: memorizar el vocabulario de los colores e integrarlo en frases.
@@ -247,16 +247,16 @@ Usa el dialogo para practicar la R final, el contraste O/OO y la expresion `ik h
 
 - `02_Vocabulario-Les1.md` para listas detalladas.
 - `03_Ejercicios-Les1.md` con propuestas de repeticion, traduccion y mini-conversaciones.
-- `../Pronunciacion/Vocales.md` para repasar pares minimos adicionales.
+- `../Pronunciación/Vocales.md` para repasar pares minimos adicionales.
 - `../Vocabulario/Colores.md` y `../Vocabulario/Familia.md` para ampliar el banco de palabras.
 - Material complementario: resumen de la clase sobre vocales O/OO, la guía del inventario de palabras difíciles y la letra impresa de “Onderweg” para lectura intensiva.
 
-## Resumen de la leccion
+## Resumen de la lección
 
 - Distinguir vocales largas y cortas cambia el significado de muchas palabras (`man` vs `maan`).
 - La R siempre se pronuncia y puede modificar el timbre de EE/OO.
 - Los articulos `de` y `het` reemplazan el genero masculino/femenino del espanol; memorizalos con cada sustantivo.
-- Practicar pares minimos y escribirlos refuerza la conexion sonido-letra.
+- Prácticar pares minimos y escribirlos refuerza la conexion sonido-letra.
 - Mantener un inventario personal de vocabulario acelera el progreso.
 
 ### Palabras nuevas
@@ -272,7 +272,7 @@ Usa el dialogo para practicar la R final, el contraste O/OO y la expresion `ik h
 
 ### Consejo cultural o linguistico
 
- En los Paises Bajos es normal leer en voz alta cuando se practica una lengua. Muchos estudiantes se reunen en bibliotecas o cafes para hacer sesiones de lectura conjunta. Sigue ese ejemplo: leer acompañado ayuda a notar diferencias de pronunciacion sin recurrir a material digital.
+ En los Paises Bajos es normal leer en voz alta cuando se práctica una lengua. Muchos estudiantes se reunen en bibliotecas o cafes para hacer sesiones de lectura conjunta. Sigue ese ejemplo: leer acompañado ayuda a notar diferencias de pronunciación sin recurrir a material digital.
 
 ### Errores comunes
 

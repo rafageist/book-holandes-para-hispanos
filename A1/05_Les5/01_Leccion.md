@@ -1,19 +1,19 @@
 ---
-title: "Leccion 5 - Hora, familia y hogar"
+title: "Lección 5 - Hora, familia y hogar"
 lesson: 05
 tags: [hora, familia, casa, planificacion, lectura]
 ---
 
 ## Panorama
 
-La quinta unidad conecta tiempo, familia y hogar. Practicamos todas las formas de decir la hora, reforzamos el orden oracional cuando un complemento temporal va al inicio, ampliamos el vocabulario de parentescos y habitaciones, y usamos la lectura "Leef" para hablar de emociones y motivacion cotidiana. Todo se presenta como libro autosuficiente, listo para imprimir o estudiar sin materiales externos.
+La quinta unidad conecta tiempo, familia y hogar. Prácticamos todas las formas de decir la hora, reforzamos el orden oracional cuando un complemento temporal va al inicio, ampliamos el vocabulario de parentescos y habitaciónes, y usamos la lectura "Leef" para hablar de emociones y motivacion cotidiana. Todo se presenta como libro autosuficiente, listo para imprimir o estudiar sin materiales externos.
 
 ## Objetivos
 
 - Preguntar y responder la hora en formatos de 12 y 24 horas, incluyendo `kwart`, `half` y `voor/over`.
 - Mover el verbo a segunda posicion cuando el tiempo abre la oracion.
 - Describir a la familia y presentar parentescos usando posesivos correctos.
-- Nombrar habitaciones, objetos domesticos y tareas del hogar con adjetivos basicos.
+- Nombrar habitaciónes, objetos domesticos y tareas del hogar con adjetivos basicos.
 - Integrar vocabulario de planes y emociones en dialogos y lecturas cortas.
 
 ## 1. Decir la hora
@@ -51,7 +51,7 @@ Regla clave: el verbo conjugado ocupa siempre la segunda posicion. Si una expres
 | `Wij eten vanavond bij mijn moeder.` | `Vanavond eten wij bij mijn moeder.` |
 | `Hij gaat volgende week schoenen kopen.` | `Volgende week gaat hij schoenen kopen.` |
 
-Practica escribir tres frases en cada columna y verifica que el verbo se mantenga en segundo lugar.
+Práctica escribir tres frases en cada columna y verifica que el verbo se mantenga en segundo lugar.
 
 ## 3. Vocabulario de familia
 
@@ -95,7 +95,7 @@ Reglas rapidas:
 - Con neutros indefinidos, omite `-e`: `een nieuw huis`, `een mooi kind`.
 - Los intensificadores de Les4 siguen vigentes: `heel`, `erg`, `veel`.
 
-Practica combinar tiempo + plan + adjetivo:
+Práctica combinar tiempo + plan + adjetivo:
 1. `Volgende week ga ik een nieuwe tafel kopen.`
 2. `Morgen poetsen wij de oude kelder.`  
 3. Coloca el tiempo al inicio y verifica el orden del verbo.
@@ -111,7 +111,7 @@ Pasos sugeridos:
 4. Escribe en espanol un pequeno resumen del mensaje principal.  
 5. Redacta dos frases propias en neerlandes aplicando el vocabulario (`Vandaag leef ik met mijn familie`, `Ik voel me vrij in mijn huis`).  
 
-Pronunciacion: practica las combinaciones `ee` (como "ei" prolongada) y `ie` (como "i" cerrada). Lee en voz alta enfocandote en mantener ritmo constante.
+Pronunciación: práctica las combinaciones `ee` (como "ei" prolongada) y `ie` (como "i" cerrada). Lee en voz alta enfocandote en mantener ritmo constante.
 
 ## 7. Ejemplos integrados
 
@@ -123,7 +123,7 @@ Pronunciacion: practica las combinaciones `ee` (como "ei" prolongada) y `ie` (co
 | Tareas domesticas | `Zaterdag stofzuig ik de woonkamer.` | Verbo sigue en segundo lugar. |
 | Invitacion | `Mag jij morgen om acht uur komen eten?` | Repite estructura de hora. |
 
-## 8. Mini practica de traduccion
+## 8. Mini práctica de traduccion
 
 ### Espanol -> neerlandes
 1. A que hora llega el tren esta noche.  
@@ -139,7 +139,7 @@ Pronunciacion: practica las combinaciones `ee` (como "ei" prolongada) y `ie` (co
 4. `De badkamer is klein maar erg praktisch.`  
 5. `Ik leef vandaag met volle energie.`  
 
-Escribe las respuestas completas y revisa con tu lista de vocabulario si aparecen palabras aun dificiles.
+Escribe las respuestas completas y revisa con tu lista de vocabulario si aparecen palabras aun difíciles.
 
 ## 9. Ejercicio de completar espacios
 
@@ -158,8 +158,8 @@ Rellena con la palabra adecuada (hora, familia, casa o adjetivos).
 
 1. Redacta un parrafo describiendo un dia completo: incluye al menos tres horas especificas, dos miembros de la familia y una tarea domestica.  
 2. Reescribe el parrafo moviendo alguna expresion temporal al inicio de la oracion.  
-3. Lee el parrafo en voz alta cuidando la pronunciacion de `ee` y `ui`.  
-4. Subraya cualquier palabra nueva e incorporala a tu inventario de vocabulario dificil.
+3. Lee el parrafo en voz alta cuidando la pronunciación de `ee` y `ui`.  
+4. Subraya cualquier palabra nueva e incorporala a tu inventario de vocabulario difícil.
 
 ## 11. Checklist de tareas
 
@@ -178,14 +178,14 @@ Marca cada punto cuando lo completes en tu cuaderno.
 
 - `../Vocabulario/Familia.md` para ampliar la lista de parentescos.  
 - `../Vocabulario/Casa.md` o listas generales para objetos del hogar.  
-- `../Ejercicios/Ejercicio_NumerosFamilia.md` para practicar numeros junto a parentescos.  
+- `../Ejercicios/Ejercicio_NúmerosFamilia.md` para prácticar números junto a parentescos.  
 - `../Ejercicios/Ejercicio_ConstructOraciones.md` para reforzar el orden con marcadores temporales.
 
-## Resumen de la leccion
+## Resumen de la lección
 
 - Dominas la hora en formatos de 12 y 24 horas con `kwart`, `half` y `voor/over`.  
 - Moviste el verbo a segunda posicion cuando el tiempo encabeza la oracion.  
-- Describiste a tu familia y practicaste posesivos `mijn/ons/onze`.  
+- Describiste a tu familia y prácticaste posesivos `mijn/ons/onze`.  
 - Ampliaste el vocabulario de la casa, objetos y tareas domesticas con adjetivos.  
 - Leiste "Leef" como ejercicio de comprension y motivacion, conectandolo con tus planes diarios.
 
@@ -204,7 +204,7 @@ Marca cada punto cuando lo completes en tu cuaderno.
 
 ## Consejo cultural o linguistico
 
-En los Paises Bajos y Belgica es normal recibir invitaciones con horario exacto en formato 24h. Responde confirmando la hora para mostrar cortesia (`Ja, om achttien uur ben ik daar`). Tambien es comun hablar de `gezinsavond` (noche familiar) para referirse a un tiempo intimo en el hogar, lo cual te da oportunidad de practicar vocabulario de familia y casa.
+En los Paises Bajos y Belgica es normal recibir invitaciones con horario exacto en formato 24h. Responde confirmando la hora para mostrar cortesia (`Ja, om achttien uur ben ik daar`). Tambien es comun hablar de `gezinsavond` (noche familiar) para referirse a un tiempo intimo en el hogar, lo cual te da oportunidad de prácticar vocabulario de familia y casa.
 
 ## Errores comunes
 

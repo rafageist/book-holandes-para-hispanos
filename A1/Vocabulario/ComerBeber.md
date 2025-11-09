@@ -36,7 +36,7 @@
 - `Het avondeten wordt heel lekker.`
 - `Hij eet veel brood maar weinig vlees.`
 
-## Practica rapida
+## Práctica rapida
 
 1. Escribe tu menu diario usando minimo 6 palabras de la lista.
 2. Crea una lista de compras y marca con un asterisco los productos frescos.

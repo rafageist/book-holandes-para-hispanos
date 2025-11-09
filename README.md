@@ -4,14 +4,14 @@ Repositorio en Markdown para construir un curso completo de neerlandés pensado 
 
 ## Visión general
 
-- **Contenido modular**: cada nivel se organiza en carpetas numeradas (`A1/01_Les1`, `A2/02_Les2`, etc.) con cuatro archivos base (`00_Indice.md`, `01_Leccion.md`, `02_Vocabulario-…`, `03_Ejercicios-…`).
+- **Contenido modular**: cada nivel se organiza en carpetas numeradas (`A1/01_Les1`, `A2/02_Les2`, etc.) con cuatro archivos base (`00_Indice.md`, `01_Lección.md`, `02_Vocabulario-…`, `03_Ejercicios-…`).
 - **Libro standalone**: no se depende de audios, videos ni enlaces externos; todas las referencias a canciones o clases se convierten en lecturas o ejercicios escritos.
 - **Generación de PDF**: el workflow `build-pdf-book.yml` arma un PDF por nivel usando `manifest.yml` para obtener la versión (`version: 1.0.0-draft`) y `A#/pdf-order.txt` para fijar el orden de los capítulos.
 - **Complementos externos**: aunque el libro sea autosuficiente, el proyecto incorpora (en notas separadas) referencias a bibliografía, plataformas comunitarias, podcasts o cursos abiertos que sirvan a hispanohablantes residentes en los Países Bajos, Bélgica o Surinam. Estas referencias se documentan como anexos opcionales y se revisan periódicamente para reflejar nuevos hallazgos.
 
 ## Estructura actual
 
-- `A1/` – Curso nivel A1 completo: lecciones, vocabulario general, pronunciación, ejercicios y anexos. Cada lección ya sigue la convención `00_Indice.md` + `01_Leccion.md` + materiales complementarios.
+- `A1/` – Curso nivel A1 completo: lecciónes, vocabulario general, pronunciación, ejercicios y anexos. Cada lección ya sigue la convención `00_Indice.md` + `01_Lección.md` + materiales complementarios.
 - `A2/` – Nivel en progreso. Usa el mismo formato que A1 y se irá poblando conforme se normalicen los contenidos.
 - `.github/workflows/` – Automatizaciones para validar y generar los libros (por nivel).
 - `manifest.yml` – Metadatos compartidos (versionamiento del libro, ajustes globales).
@@ -27,7 +27,7 @@ Repositorio en Markdown para construir un curso completo de neerlandés pensado 
 ## Línea editorial y recursos complementarios
 
 - El libro funciona como estructura principal para autoestudio y acompañamiento de comunidades hispanohablantes en países de idioma neerlandés.
-- Los recursos externos (libros recomendados, videos oficiales, plataformas gubernamentales, podcasts, guías cívicas, etc.) se recopilan en secciones específicas del nivel o en carpetas de anexos. Cada referencia debe indicar por qué es útil, cómo acceder y si requiere registro.
+- Los recursos externos (libros recomendados, videos oficiales, plataformas gubernamentales, podcasts, guías cívicas, etc.) se recopilan en secciónes específicas del nivel o en carpetas de anexos. Cada referencia debe indicar por qué es útil, cómo acceder y si requiere registro.
 - Se planean actualizaciones periódicas para agregar nuevos materiales detectados en internet o recibir aportes de la comunidad. Documenta cada incorporación para que las versiones PDF reflejen la misma información.
 
 ## Buenas prácticas

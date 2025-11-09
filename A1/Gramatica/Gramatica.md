@@ -1,6 +1,6 @@
-# Gramatica
+# Gramática
 
-Nota índice de `Gramatica`.
+Nota índice de `Gramática`.
 
 Enlaces:
 

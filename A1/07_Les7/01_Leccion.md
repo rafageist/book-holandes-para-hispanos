@@ -1,12 +1,12 @@
 ---
-title: "Leccion 7 - Preteritos, orden y expresiones avanzadas"
+title: "Lección 7 - Preteritos, orden y expresiones avanzadas"
 lesson: 07
 tags: [preterito, orden, infinitivos, lectura, dialogo]
 ---
 
 ## Panorama
 
-La septima unidad retoma los topicos que abren la puerta al nivel A2: preteritos (`ovt`), infinitivos con o sin `te`, pluscuamperfecto, futuro cercano, imperativo, construcciones con `aan het` y verbos con particulas fijas. Tambien revisamos como colocar el verbo en oraciones subordinadas y practicamos dialogos con matices emocionales. La lectura final ofrece un texto sobre planificacion personal. Todo se mantiene en formato libro, sin referencias a materiales externos.
+La septima unidad retoma los topicos que abren la puerta al nivel A2: preteritos (`ovt`), infinitivos con o sin `te`, pluscuamperfecto, futuro cercano, imperativo, construcciones con `aan het` y verbos con particulas fijas. Tambien revisamos como colocar el verbo en oraciones subordinadas y prácticamos dialogos con matices emocionales. La lectura final ofrece un texto sobre planificacion personal. Todo se mantiene en formato libro, sin referencias a materiales externos.
 
 ## Objetivos
 
@@ -47,7 +47,7 @@ Estructura: `had/hadden` o `was/waren` + participio. Se usa para acciones anteri
 - `Ik had mijn huiswerk al gemaakt voordat de les begon.`  
 - `Wij waren al vertrokken toen het begon te regenen.`  
 
-Practica comparando: `Toen ik aankwam, had hij al gegeten.` Describe la secuencia en espanol para reafirmar.
+Práctica comparando: `Toen ik aankwam, had hij al gegeten.` Describe la secuencia en espanol para reafirmar.
 
 ## 3. Infinitivos con y sin `te`
 
@@ -90,7 +90,7 @@ Clausulas con `omdat`, `dat`, `als`, `wanneer`, `hoewel` llevan el verbo al fina
 - Subordinada: `Ik blijf thuis omdat ik moe ben.`  
 - Condicional: `Als het regent, blijf ik thuis.` (puedes invertir: `Als het regent blijf ik thuis`).  
 
-Practica reescribiendo frases con `want`, `omdat`, `hoewel`, `zodat`.
+Práctica reescribiendo frases con `want`, `omdat`, `hoewel`, `zodat`.
 
 ## 8. Ejemplos integrados
 
@@ -104,7 +104,7 @@ Practica reescribiendo frases con `want`, `omdat`, `hoewel`, `zodat`.
 | Subordinada | `Omdat hij ziek was, bleef hij thuis.` | Verbo final. |
 | Particula | `Ik sta elke dag om zes uur op.` | Coloca particula al final. |
 
-## 9. Mini practica de traduccion
+## 9. Mini práctica de traduccion
 
 ### Espanol -> neerlandes
 1. Ayer caminamos durante dos horas junto al rio.  
@@ -161,15 +161,15 @@ Escribe un dialogo de 10 lineas donde:
 
 ## Recursos complementarios
 
-- `../Gramatica/VerboTener.md` para revisar `hebben` y `zijn` en pasado.  
-- `../Ejercicios/Ejercicio_ConstructOraciones.md` para practicar orden.  
+- `../Gramática/VerboTener.md` para revisar `hebben` y `zijn` en pasado.  
+- `../Ejercicios/Ejercicio_ConstructOraciones.md` para prácticar orden.  
 - Listas propias de verbos irregulares impresas (sin depender de recursos externos).
 
-## Resumen de la leccion
+## Resumen de la lección
 
 - Dominaste el pasado simple y el pluscuamperfecto combinando `hebben` y `zijn`.  
 - Aprendiste a alternar infinitivos con o sin `te` y a usar `aan het` como progresivo.  
-- Practicaste futuro cercano y condicional basico con `gaan` y `zou`.  
+- Prácticaste futuro cercano y condicional basico con `gaan` y `zou`.  
 - Afianzaste el orden del verbo en subordinadas y con particulas separables.  
 - Aplicaste todo en lectura, ejercicios de huecos y dialogos.
 
@@ -187,7 +187,7 @@ Escribe un dialogo de 10 lineas donde:
 
 ## Consejo linguistico
 
-En neerlandes se usa frecuentemente el preterito simple para contar historias breves, incluso en conversaciones coloquiales. Practica escribiendo diarios en pasado para automatizar terminaciones. Recuerda que al usar subordinadas con `omdat` o `als`, el verbo siempre se desplaza al final; revisar tus frases en voz alta ayuda a interiorizarlo.
+En neerlandes se usa frecuentemente el preterito simple para contar historias breves, incluso en conversaciones coloquiales. Práctica escribiendo diarios en pasado para automatizar terminaciones. Recuerda que al usar subordinadas con `omdat` o `als`, el verbo siempre se desplaza al final; revisar tus frases en voz alta ayuda a interiorizarlo.
 
 ## Errores comunes
 

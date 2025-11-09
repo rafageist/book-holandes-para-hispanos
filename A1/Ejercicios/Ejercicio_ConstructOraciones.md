@@ -37,7 +37,7 @@ Escribe un parrafo corto (6-8 frases) describiendo tu rutina diaria usando al me
 
 - Un verbo de cambio (`worden`).
 - Un verbo cognitivo (`denken` o `nadenken`).
-- Un numero ordinal o cardinal.
+- Un número ordinal o cardinal.
 
 Lee el parrafo en voz alta y usa una checklist para verificar el orden del verbo.
 

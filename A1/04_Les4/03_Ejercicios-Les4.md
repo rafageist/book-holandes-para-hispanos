@@ -23,7 +23,7 @@ Reescribe las parejas usando la alternativa correcta.
 5. `Zij spreekt met een vriendin`  cambia a `mijn vriendin` si quieres indicar pareja.  
 Explica en espanol por que cambiaste cada verbo.
 
-## 3. Mini practica de traduccion
+## 3. Mini práctica de traduccion
 
 ### Espanol  neerlandes
 1. Solo podemos usar la mitad del salon hoy.  
@@ -78,7 +78,7 @@ Usa palabras del vocabulario (modales, emociones, animales, intensificadores).
 
 ## 8. Actividad de orden y combinacion
 
-1. Escribe cinco oraciones y luego reordena los elementos para practicar inversiones (`Morgen kan ik thuis werken`  `Thuis kan ik morgen werken`).  
+1. Escribe cinco oraciones y luego reordena los elementos para prácticar inversiones (`Morgen kan ik thuis werken`  `Thuis kan ik morgen werken`).  
 2. Combina dos ideas con `maar` y `want`:  
    - `Ik ben moe. Ik ben toch tevreden.`  
    - `We mogen binnen blijven. Het regent heel veel.`  
@@ -91,4 +91,4 @@ Usa palabras del vocabulario (modales, emociones, animales, intensificadores).
 - [ ] Escribi frases con emociones y animales usando intensificadores.  
 - [ ] Trabaje cantidades con `half`, `halve`, `de helft` y registre ejemplos en mi cuaderno.  
 - [ ] Lei y resumi el texto "Een moment".  
-- [ ] Actualice mi inventario de palabras dificiles.
+- [ ] Actualice mi inventario de palabras difíciles.

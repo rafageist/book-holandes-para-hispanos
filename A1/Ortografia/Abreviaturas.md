@@ -13,4 +13,4 @@ Consejos:
 
 - Mantener el formato (`letras minusculas + punto`) cuando se escribe dentro de un texto formal.
 - En mensajes informales se pueden omitir los puntos (`tm`, `as`), pero anotalos correctamente en materiales de estudio.
-- Practica con tu agenda: escribe tres citas usando `t/m`, `jl.` y `a.s.`.
+- Práctica con tu agenda: escribe tres citas usando `t/m`, `jl.` y `a.s.`.

@@ -28,7 +28,7 @@ Ejemplos:
 - `Ons gezin heeft vier kinderen.`  
 - `Haar nicht studeert in Rotterdam.`
 
-## Casa y habitaciones
+## Casa y habitaciónes
 
 | Habitacion | Notas |
 |------------|-------|

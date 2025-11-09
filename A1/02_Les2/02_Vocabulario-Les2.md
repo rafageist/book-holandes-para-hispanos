@@ -12,7 +12,7 @@
 | ustedes informales | `jullie` | Pronuncia “yul-li”. |
 | ellos | `zij / ze` | Igual que en singular; el verbo indica el número. |
 
-Practica escribir frases cortas (`Wij eten`, `U woont in Peru`) y luego convertirlas en preguntas invirtiendo verbo y sujeto.
+Práctica escribir frases cortas (`Wij eten`, `U woont in Peru`) y luego convertirlas en preguntas invirtiendo verbo y sujeto.
 
 ## Consonantes difíciles (F/V/B/W)
 

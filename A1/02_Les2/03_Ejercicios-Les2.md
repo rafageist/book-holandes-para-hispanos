@@ -17,7 +17,7 @@
 
 ## 3. NG, CH, SCH y G
 
-1. Practica frente al espejo con `koning`, `jongen`, `lang`, `zingen`, `schoen`, `school`, `gracht`.  
+1. Práctica frente al espejo con `koning`, `jongen`, `lang`, `zingen`, `schoen`, `school`, `gracht`.  
 2. Escribe un mini párrafo de 5 líneas describiendo una calle holandesa e incorpora al menos 4 palabras con `ch` o `sch`.  
 3. Señala qué palabras pierden la G final cuando hablan rápido (por ejemplo `gracht` → `gracht` con aspiración).
 

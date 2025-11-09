@@ -37,7 +37,7 @@ Usa `ik ben` o `ik voel me`: `Ik ben blij`, `Ik voel me bang`.
 ## Animales cotidianos
 
 `de kat`, `de hond`, `de vogel`, `de vlinder`, `de vis`, `de muis`, `het konijn`, `de kip`, `de haan`, `de koe`, `de slang`, `de spin`, `de mier`, `het paard`, `het schaap`, `de geit`, `de stier`, `de ezel`, `de leeuw`, `de tijger`, `de olifant`, `de giraf`, `de aap`, `het varken`, `de mug`.  
-Practica el plural (`de honden`, `de vissen`, `de konijnen`) y agrega adjetivos (`rustig`, `gevaarlijk`, `vriendelijk`).
+Práctica el plural (`de honden`, `de vissen`, `de konijnen`) y agrega adjetivos (`rustig`, `gevaarlijk`, `vriendelijk`).
 
 ## Lexico del texto "Een moment"
 

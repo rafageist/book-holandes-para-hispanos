@@ -22,9 +22,9 @@ Ejemplos:
 - `Ik zie hem morgen.`
 - `Wij bellen jullie later.`
 
-## Numeros 100+
+## Números 100+
 
-| Numero | Neerlandes |
+| Número | Neerlandes |
 |--------|------------|
 | 100 | `honderd` |
 | 125 | `honderd vijfentwintig` |
