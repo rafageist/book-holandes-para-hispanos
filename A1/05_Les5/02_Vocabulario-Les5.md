@@ -1,55 +1,74 @@
-# Vocabulario - Leccion 5
+# Vocabulario - Les5
 
 ## Hora (12h y 24h)
 
 | Expresion | Significado |
 |-----------|-------------|
-| `Hoelaat is het?` | ¿Qué hora es? |
-| `Het is drie uur` | Son las tres. |
-| `Het is kwart over drie` | Tres y cuarto. |
-| `Het is half vier` | Tres y media. |
-| `Het is kwart voor vier` | Tres cuarenta y cinco. |
-| `vijf over`, `tien voor` | cinco después / diez antes. |
-| `achttien uur` | 18:00 (seis de la tarde). |
-| `00:00` = `middernacht`, `12:00` = `middag`. |
+| `Hoe laat is het?` | Que hora es. |
+| `Het is drie uur.` | Son las tres. |
+| `Het is kwart over drie.` | Tres y cuarto. |
+| `Het is half vier.` | Tres y media (liter. media hacia las cuatro). |
+| `Het is kwart voor vier.` | Tres cuarenta y cinco. |
+| `vijf over`, `tien voor` | cinco despues, diez antes. |
+| `achttien uur` | 18:00. |
+| `middernacht` / `middag` | medianoche / medio dia. |
 
-Frases útiles:
-- `Ik heb om acht uur een afspraak.`
+Frases de referencia:
+- `Ik heb om acht uur een afspraak.`  
 - `De trein vertrekt om 18:35 (achttien uur vijfendertig).`
 
-## Familia
+## Familia y posesivos
 
-`de moeder`, `de vader`, `de zoon`, `de dochter`, `de broer`, `de zus`, `de opa`, `de oma`, `de oom`, `de tante`, `de neef`, `de nicht`, `het gezin`, `de familie`, `de schoonvader`, `de schoonmoeder`.  
-Pronombres posesivos: `mijn`, `jouw`, `zijn`, `haar`, `ons/onze`.
+`de moeder`, `de vader`, `de zoon`, `de dochter`, `de broer`, `de zus`, `de opa`, `de oma`, `de oom`, `de tante`, `de neef`, `de nicht`, `het gezin`, `de familie`, `de schoonvader`, `de schoonmoeder`, `de schoonzus`, `de schoonbroer`.
+
+Posesivos: `mijn`, `jouw`, `zijn`, `haar`, `ons`, `onze`.
 
 Ejemplos:
-- `Mijn opa woont in Groningen.`
-- `Ons gezin heeft vier kinderen.`
+- `Mijn opa woont in Groningen.`  
+- `Ons gezin heeft vier kinderen.`  
+- `Haar nicht studeert in Rotterdam.`
 
 ## Casa y habitaciones
 
-| Habitacion | Ejemplo |
-|------------|---------|
-| `de woonkamer` | sala |
+| Habitacion | Notas |
+|------------|-------|
+| `de woonkamer` | sala de estar |
 | `de keuken` | cocina |
-| `de badkamer` | baño |
+| `de badkamer` | bano |
 | `de slaapkamer` | dormitorio |
-| `de hal`, `de tuin`, `het balkon`, `de zolder`, `de kelder` | |
+| `de hal` | pasillo |
+| `de tuin` | jardin |
+| `het balkon` | balcon |
+| `de zolder` | atico |
+| `de kelder` | sotano |
+| `de studeerkamer` | estudio |
 
-Objetos: `de tafel`, `de stoel`, `de bank`, `het bed`, `de kast`, `het fornuis`, `de koelkast`, `de wasmachine`, `de lamp`.  
-Ejemplos: `In de woonkamer staat een grote bank`, `De keuken is klein maar gezellig`.
+Objetos: `de tafel`, `de stoel`, `de bank`, `het bed`, `de kast`, `het fornuis`, `de koelkast`, `de wasmachine`, `de lamp`, `de plant`, `het tapijt`.
 
-## Adjetivos y planes
+## Tareas domesticas y verbos
 
-- `nieuw`, `mooi`, `duur`, `goedkoop`, `groot`, `klein`, `gezellig`, `ruim`.  
-- Recuerda el uso de `-e`: `een mooie jas`, `het mooie huis`, `een mooi huis`.  
-- Expresiones temporales: `volgende week`, `morgen`, `straks`, `binnenkort`.
+- `schoonmaken` (limpiar).  
+- `stofzuigen` (aspirar).  
+- `afwassen` (lavar platos).  
+- `koken` (cocinar).  
+- `wassen` (lavar ropa).  
+- `drogen` (secar).  
+- `ophangen` (colgar).  
+- `opruimen` (ordenar).
 
-Frases modelo:
-- `Volgende week ga ik een nieuwe tafel kopen.`
-- `Morgen ga ik met mijn broer naar de markt.` (puedes reemplazar el posesivo según tu contexto).
+## Adjetivos utiles
 
-## Léxico del texto “Leef”
+`nieuw`, `mooi`, `duur`, `goedkoop`, `groot`, `klein`, `gezellig`, `ruim`, `oud`, `modern`, `licht`, `donker`.
 
-Palabras clave: `leef` (vive), `vandaag`, `gevoel`, `vrij`, `gelukkig`, `moment`.  
-Usa la letra para practicar emociones (`ik voel me vrij`, `ik zing`) y frases de motivación.
+Recuerda:
+- `een mooi huis`, `de mooie kamer`.  
+- `ons nieuwe huis`, `onze nieuwe keuken`.
+
+## Expresiones temporales
+
+`vandaag`, `morgen`, `vanavond`, `straks`, `binnenkort`, `volgende week`, `over twee dagen`, `elke maandag`.
+
+## Lexico del texto "Leef"
+
+Palabras clave: `leef`, `vandaag`, `gevoel`, `vrij`, `gelukkig`, `moment`, `energie`, `dans`, `zingen`.  
+Usa estas palabras para describir emociones en presente: `Ik leef vandaag met veel energie`, `Ik voel me vrij`.
