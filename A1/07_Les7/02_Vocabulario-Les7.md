@@ -1,45 +1,58 @@
-# Vocabulario - Leccion 7
+# Vocabulario - Les7
 
-## Horario (recordatorio parte 3)
+## Preterito (OVT)
 
-| Expresion | Significado |
-|-----------|-------------|
-| `vijf over twee` | 14:05 |
-| `tien over twee` | 14:10 |
-| `kwart over twee` | 14:15 |
-| `tweeëntwintig voor half drie` | 14:08 (dos minutos antes de veinte para media) |
-| `vijf voor half drie` | 14:25 |
-| `half drie` | 14:30 |
-| `vijf over half drie` | 14:35 |
-| `kwart voor drie` | 14:45 |
+| Verbo | Singular | Plural |
+|-------|----------|--------|
+| werken | werkte | werkten |
+| spelen | speelde | speelden |
+| fietsen | fietste | fietsten |
+| praten | praatte | praatten |
+| kijken | keek | keken |
+| lezen | las | lazen |
+| gaan | ging | gingen |
+| komen | kwam | kwamen |
+| doen | deed | deden |
+| zijn | was | waren |
+| hebben | had | hadden |
 
-## Direcciones y lugares
+## Participios clave (para pluscuamperfecto)
 
-`links`, `rechts`, `rechtdoor`, `achter`, `naast`, `tegenover`, `bij`, `in de buurt`, `de straat`, `de kruising`, `de rotonde`, `het plein`, `het station`, `de bushalte`, `de supermarkt`, `de apotheek`.  
-Frases útiles:
-- `Ga rechtdoor en sla bij het tweede stoplicht linksaf.`
-- `Het station ligt tegenover de supermarkt.`
-- `Is het ver van hier? Nee, het is om de hoek.`
+`gewerkt`, `gespeeld`, `gefietst`, `geluisterd`, `gegaan`, `gekomen`, `gedaan`, `gezien`, `geschreven`, `opgestaan`, `meegedaan`, `uitgegaan`, `voorbereid`.
 
-## Presente continuo
+## Infinitivos con/sin `te`
 
-Estructura: `zijn + aan het + infinitief`.  
-Verbos frecuentes: `werken`, `studeren`, `koken`, `eten`, `lezen`, `slapen`, `schrijven`, `wandelen`.  
-Frases: `Ik ben aan het studeren`, `Wij zijn aan het koken`.
+- Sin `te`: modales (`kunnen`, `mogen`, `willen`, `moeten`, `zullen`).  
+- Con `te`: `proberen`, `leren`, `beginnen`, `vergeten`, `beloof`, `van plan zijn om te`.  
+- Frases modelo: `Ik probeer te schrijven`, `Wij mogen blijven`, `Hij leert Nederlands spreken`.
 
-## Verbos separables (selectos)
+## Futuro y condicional
 
-| Verbo | Ejemplo |
-|-------|---------|
-| `opstaan` | `Ik sta elke dag om zes uur op.` |
-| `uitzoeken` | `Kun je dit voor me uitzoeken?` |
-| `afwassen` | `Wij wassen de borden af.` |
-| `meebrengen` | `Breng je je boek mee?` |
-| `uitgaan` | `Ze gaan vrijdag uit.` |
-| `opbellen` | `Bel je mij later op?` |
-| `klaarmaken` | `Ik maak het ontbijt klaar.` |
+- `gaan + infinitivo`  `Morgen ga ik studeren`.  
+- `zullen`  `Zullen we morgen afspreken?`  
+- `zou/zouden`  `Ik zou graag in Gent wonen`.
 
-## Léxico del texto “Speeltuin”
+## Imperativo y progresivo
 
-Palabras clave: `speeltuin` (patio de juegos), `vriend`, `herinnering`, `geluk`, `verdriet`, `samen`, `wedstrijd`, `moment`.  
-Frases para reutilizar: `Ik wil terug naar de speeltuin`, `Herinner je je nog?`.
+- Imperativo: `Luister`, `Schrijf`, `Wacht`.  
+- Negativo: `Niet rennen`, `Niet vergeten`.  
+- `aan het + infinitivo`: `Ik ben aan het lezen`, `Zij zijn aan het koken`.
+
+## Verbos con particulas separables
+
+| Verbo | Significado | Ejemplo |
+|-------|-------------|---------|
+| opstaan | levantarse | `Ik sta om zes uur op.` |
+| aankomen | llegar | `Hij komt vroeg aan.` |
+| meedoen | participar | `Wij doen mee met het spel.` |
+| uitgaan | salir | `Ze gaat zaterdag uit.` |
+| afmaken | terminar | `Ik maak mijn werk af.` |
+
+## Conectores y subordinadas
+
+`omdat`, `want`, `als`, `wanneer`, `hoewel`, `zodat`, `terwijl`.  
+Recuerda: en subordinadas el verbo va al final (`Ik blijf thuis omdat ik ziek ben`).
+
+## Lexico de planes y emociones
+
+`voorbereiden`, `plannen`, `beslissen`, `rustig`, `druk`, `moeilijk`, `belangrijk`, `waardevol`, `energie`, `geduld`.
