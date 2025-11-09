@@ -44,8 +44,8 @@ jobs:
       - name: Upload PDFs as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: holandes-curso-pdfs
-          path: holandes-curso-*.pdf
+          name: holandes-para-hispanos
+          path: holandes-para-hispanos-*.pdf
 
       - name: Create GitHub Release with PDFs
         uses: softprops/action-gh-release@v1
@@ -53,6 +53,6 @@ jobs:
           tag_name: ${{ env.BOOK_TAG }}
           name: "Holandes Curso - v${{ env.BOOK_VERSION }}"
           body: "Automated PDF export of the Holandes vault."
-          files: "holandes-curso-*.pdf"
+          files: "holandes-para-hispanos-*.pdf"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
