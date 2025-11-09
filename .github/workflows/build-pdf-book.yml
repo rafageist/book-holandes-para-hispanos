@@ -27,7 +27,15 @@ jobs:
           VERSION=$(python -c "import pathlib,re; default='0.0.0'; path=pathlib.Path('manifest.yml'); text=path.read_text(encoding='utf-8') if path.exists() else ''; match=re.search(r'^version:\s*(.+)$', text, re.MULTILINE); value=(match.group(1).strip() if match else default); value=value.strip('\"').strip(\"'\"); print(value)")
           if [ -z "$VERSION" ]; then VERSION="0.0.0"; fi
           echo "BOOK_VERSION=$VERSION" >> $GITHUB_ENV
-          echo "BOOK_TAG=v$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+          echo "BOOK_TAG=$VERSION" >> $GITHUB_ENV
+
+      - name: Ensure version tag is unique
+        run: |
+          git fetch --tags
+          if git rev-parse "$BOOK_TAG" >/dev/null 2>&1; then
+            echo "Tag $BOOK_TAG already exists. Update manifest.yml version before rerunning."
+            exit 1
+          fi
 
       - name: Build PDFs for each level
         run: |
@@ -106,7 +114,7 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ env.BOOK_TAG }}
-          name: "Holandes Curso - v${{ env.BOOK_VERSION }} (${{ env.BOOK_TAG }})"
+          name: "Holandes Curso - v${{ env.BOOK_VERSION }}"
           body: "Automated PDF export of the Holandes vault."
           files: "holandes-curso-*.pdf"
         env:
