@@ -45,7 +45,7 @@ for LEVEL in $LEVELS; do
     fi
   done < md-list-cover.txt
 
-  OUTPUT="holandes-curso-${LEVEL}-${BOOK_VERSION}.pdf"
+  OUTPUT="holandes-para-hispanos-${LEVEL}-${BOOK_VERSION}.pdf"
   pandoc "$COMBINED" -o "$OUTPUT" \
     --pdf-engine=xelatex \
     -V mainfont="DejaVu Sans" \

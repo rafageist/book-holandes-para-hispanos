@@ -51,8 +51,8 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ env.BOOK_TAG }}
-          name: "Holandes Curso - v${{ env.BOOK_VERSION }}"
-          body: "Automated PDF export of the Holandes vault."
+          name: "Holandes para Hispanohablantes - v${{ env.BOOK_VERSION }}"
+          body: "Automated PDF export of the Holandes para Hispanohablantes vault."
           files: "holandes-para-hispanos-*.pdf"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
