@@ -53,7 +53,7 @@ Inspirado en la tarea oficial:
 1. **Inventario visible:** pega cinco tarjetas (espejo, nevera, laptop, agenda, puerta). Lee en voz alta y forma una frase breve.
 2. **Profesiones lightning:** practica Hallo, ik ben ... + profesion y Ik werk in .... Cambia cada dia.
 3. **Micro diarios:** antes de dormir escribe dos oraciones (Vandaag oefen ik de OE, Morgen koop ik fruit).
-4. **Quizlet + papel:** transcribe lo que aprendes en apps a tu cuaderno para poder estudiarlo sin pantalla.
+4. **App + papel:** transcribe lo que aprendes en herramientas digitales a tu cuaderno para poder estudiarlo sin pantalla.
 
 ## Mini dialogos
 

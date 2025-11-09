@@ -8,7 +8,7 @@ Vocales cortas: a, e, i, o, u (ej.: man, pen, vis, pot, put)
 
 Vocales largas: aa, ee, ie, oo, uu (ej.: maan, been, dier, boom, muur)
 
-Ejercicios sugeridos sin audio:
+Ejercicios sugeridos solo con material escrito:
 
 - Lee pares contrastivos: "man — maan", "pen — peen".
 - Practica manteniendo la duración de la vocal larga.

@@ -13,7 +13,7 @@ Esta primera unidad sienta las bases del curso: afinamos la articulacion para di
 - Reconocer la regla de longitud (una consonante mantiene la vocal larga; dos consonantes la vuelven corta) y aplicarla a palabras nuevas.
 - Pronunciar con seguridad la R final y su efecto sobre EE/OO (`oor`, `pier`, `boor`).
 - Diferenciar U y UI: la U suena como la vocal de "hamburguesa", la doble U se obtiene diciendo una "i" con los labios redondeados.
-- Instalar un sistema diario de vocabulario (inventario de palabras dificiles + tarjetas en Quizlet/libro/cuaderno).
+- Instalar un sistema diario de vocabulario (inventario de palabras dificiles + tarjetas en papel o en una app sencilla/libro/cuaderno).
 - Completar las primeras tareas tematicas (colores, frutas, vocabularios 2 y 3).
 - Introducir articulos `de/het` y notar que en neerlandes no existe genero masculino/femenino como en espanol; la distincion viene dada por el articulo que memorizaras con cada palabra (conexion con el punto 2 del indice).
 
@@ -90,7 +90,7 @@ Las tareas de esta unidad insisten en “sacar las reglas del cuaderno”:
 
 - **Inventario visible:** coloca cinco tarjetas (espejo, nevera, laptop). Cada vez que las mires, lee en voz alta y forma una frase breve (`De tas is blauw`).  
 - **Profesiones instantaneas:** cuando conozcas a alguien, formula mentalmente `Ik ben ...` + profesion (`de docent`, `de bakker`). Usa la tabla de vocabulario para crear tus propias combinaciones y repetirlas en voz alta.  
-- **Cuaderno + app:** usa Quizlet solo como apoyo. Pasa tus listas a papel para estudiar lejos de la pantalla y evita depender del audio.  
+- **Cuaderno + app:** usa cualquier aplicacion de tarjetas solo como apoyo. Pasa tus listas a papel para estudiar lejos de la pantalla y evita depender de recursos externos.  
 - **Micro metas nocturnas:** antes de dormir escribe dos lineas sobre lo que haras mañana (`Morgen oefen ik de EU-klank`). Esta costumbre consolida el habito de estudio diario.
 
   ### Ejemplos guiados
@@ -170,7 +170,7 @@ El curso insiste en construir un inventario vivo de palabras dificiles:
 
 Herramientas recomendadas:
 
-- **Quizlet** para jugar, combinar listas o marcar terminos dificiles. Si usas Android y la app muestra un aviso de permisos, desinstala, reinicia el telefono, actualiza Android y vuelve a instalar; mientras tanto puedes entrar desde el navegador (`www.quizlet.com`) o trabajar en computadora.
+- **Aplicacion de tarjetas** para jugar, combinar listas o marcar terminos dificiles. Si tu telefono muestra un aviso de permisos, desinstala la app, reinicia el dispositivo, actualiza el sistema y vuelve a instalar; mientras tanto puedes entrar desde el navegador o trabajar en computadora.
 - **Guias foneticas**: lee en voz alta siguiendo los ejemplos incluidos en este libro para conectar grafia y sonido.
 - **Etiquetas en casa**: pega tarjetas en objetos cotidianos (colores, frutas, profesiones).
 
@@ -272,7 +272,7 @@ Usa el dialogo para practicar la R final, el contraste O/OO y la expresion `ik h
 
 ### Consejo cultural o linguistico
 
-En los Paises Bajos es normal leer en voz alta cuando se practica una lengua. Muchos estudiantes se reunen en bibliotecas o cafes para hacer sesiones de lectura conjunta. Sigue ese ejemplo: leer acompañado ayuda a notar diferencias de pronunciacion sin recurrir a audios.
+ En los Paises Bajos es normal leer en voz alta cuando se practica una lengua. Muchos estudiantes se reunen en bibliotecas o cafes para hacer sesiones de lectura conjunta. Sigue ese ejemplo: leer acompañado ayuda a notar diferencias de pronunciacion sin recurrir a material digital.
 
 ### Errores comunes
 

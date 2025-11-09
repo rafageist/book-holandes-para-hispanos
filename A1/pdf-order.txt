@@ -53,6 +53,10 @@ A1/Vocabulario/Numeros.md
 A1/Pronunciacion/Pronunciacion.md
 A1/Pronunciacion/Vocales.md
 A1/Pronunciacion/Consonantes.md
+A1/Pronunciacion/NotasPracticaVocabulario.md
+
+A1/Ortografia/Abreviaturas.md
+A1/Ortografia/Dieresis.md
 
 A1/Gramatica/Gramatica.md
 A1/Gramatica/ArticulosDefinidosIndefinidos.md

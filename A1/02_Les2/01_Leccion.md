@@ -96,7 +96,7 @@ Practica dialogos cortos siguiendo el flujo real:
 La docente insiste en dos ideas:
 
 1. **Medir es saber**: cada semana actualiza tu inventario de palabras con columnas NL->ES, ES->NL y pronunciacion dificil. Selecciona 5 palabras diarias, pegala en la casa y formate frases.
-2. **Habito diario (aprox. 2 horas)**: repite el contenido viejo y agrega uno nuevo; combina Quizlet, libros impresos y escritura fonetica. Practica conversando aunque solo conozcas el presente.
+2. **Habito diario (aprox. 2 horas)**: repite el contenido viejo y agrega uno nuevo; combina una app de tarjetas sencilla, libros impresos y escritura fonetica. Practica conversando aunque solo conozcas el presente.
 
 ## Vocabulario tematico
 
@@ -131,7 +131,7 @@ La docente insiste en dos ideas:
 1. **Pronombres al ritmo** (Tarea 2): copia la tabla superior y escribe 10 oraciones mezclando JE/JIJ, JULLIE y U. Lee en voz alta frente a un espejo.
 2. **Consonantes en contexto** (Tareas 3-5): arma tres columnas con F/V/B/W, CH/SCH y NG; anade cinco palabras en cada una y subraya la vocal que cambia el sonido.
 3. **Abecedario activo** (Tarea 6): recita el alfabeto deletreando tu nombre, direccion y correo. Anota letras conflictivas (G, J, Y) y repite hasta que salga fluido.
-4. **Vocabularios 4-6** (Tareas 7-9): integra las listas en Quizlet, marca "Dificil" y combina con dictados caseros.
+4. **Vocabularios 4-6** (Tareas 7-9): integra las listas en tu app o cuaderno de tarjetas, marca "Dificil" y combina con dictados caseros.
 5. **Definiciones de tiempo** (Tarea 10): crea una linea de tiempo con las franjas `ochtend, middag, namiddag, avond, nacht`. Practica preguntas como `Hoe laat is de afspraak? Is dat 's avonds of 's middags?`
 6. **Actividad cultural**: escribe un parrafo corto sobre tu experiencia en el medico usando `huisarts`, `uitzieken`, `paracetamol`.
 

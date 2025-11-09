@@ -170,7 +170,7 @@ Marca cada tarea cuando completes lectura, escritura y practica oral basica.
 
 ## Resumen de la leccion
 
-- Conjugaste verbos regulares en presente sin depender de audio y controlando la raiz.  
+- Conjugaste verbos regulares en presente sin depender de recursos externos y controlando la raiz.  
 - Diferenciaste los verbos de cambio (`worden`) y pensamiento (`denken/nadenken`).  
 - Ampliaste numeros, abreviaturas y trema para escribir fechas y terminos sin errores.  
 - Incorporaste vocabulario de comida/bebida y practicaste intensificadores con contexto real.  
@@ -191,7 +191,7 @@ Marca cada tarea cuando completes lectura, escritura y practica oral basica.
 
 ## Consejo cultural o linguistico
 
-El apellido Oranje-Nassau y el color naranja se asocian con celebraciones nacionales (Koningsdag). Al describir fiestas neerlandesas, menciona los colores de la bandera (rojo, blanco y azul) y cuando aparece la franja naranja para actividades deportivas. Esa referencia cultural refuerza vocabulario cromatico sin recurrir a materiales audiovisuales.
+El apellido Oranje-Nassau y el color naranja se asocian con celebraciones nacionales (Koningsdag). Al describir fiestas neerlandesas, menciona los colores de la bandera (rojo, blanco y azul) y cuando aparece la franja naranja para actividades deportivas. Esa referencia cultural refuerza vocabulario cromatico sin recurrir a materiales externos.
 
 ## Errores comunes
 

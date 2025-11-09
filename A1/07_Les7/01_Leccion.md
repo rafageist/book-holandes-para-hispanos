@@ -163,7 +163,7 @@ Escribe un dialogo de 10 lineas donde:
 
 - `../Gramatica/VerboTener.md` para revisar `hebben` y `zijn` en pasado.  
 - `../Ejercicios/Ejercicio_ConstructOraciones.md` para practicar orden.  
-- Listas propias de verbos irregulares impresas (sin depender de audio).
+- Listas propias de verbos irregulares impresas (sin depender de recursos externos).
 
 ## Resumen de la leccion
 

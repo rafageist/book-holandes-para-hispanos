@@ -6,7 +6,7 @@ tags: [participio, interrogativos, cuerpo, opiniones, lectura]
 
 ## Panorama
 
-En esta unidad damos el salto del presente al pasado cercano con participios, repasamos los interrogativos que permiten iniciar preguntas naturales, ampliamos el vocabulario del cuerpo y las posturas, y practicamos como expresar opiniones. La lectura "Goud" sirve para relacionar emociones y sensaciones fisicas sin depender de audios. Todo el material funciona como libro independiente y mantiene el enfoque en escritura y lectura guiada.
+En esta unidad damos el salto del presente al pasado cercano con participios, repasamos los interrogativos que permiten iniciar preguntas naturales, ampliamos el vocabulario del cuerpo y las posturas, y practicamos como expresar opiniones. La lectura "Goud" sirve para relacionar emociones y sensaciones fisicas sin depender de material externo. Todo el material funciona como libro independiente y mantiene el enfoque en escritura y lectura guiada.
 
 ## Objetivos
 
@@ -191,7 +191,7 @@ Marca cada punto al completarlo en tu cuaderno o vault.
 - `../Gramatica/VerboTener.md` para repasar conjugaciones de `hebben`.  
 - `../Vocabulario/Vocabulario3.md` para ampliar listas de profesiones y emociones.  
 - `../Ejercicios/Ejercicio_ConstructOraciones.md` para practicar orden con interrogativos y participios.  
-- Cualquier silueta o ilustracion impresa (sin audio) para etiquetar partes del cuerpo.
+- Cualquier silueta o ilustracion impresa (sin apoyarte en recursos sonoros) para etiquetar partes del cuerpo.
 
 ## Resumen de la leccion
 

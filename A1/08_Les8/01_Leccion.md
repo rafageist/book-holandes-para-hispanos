@@ -95,7 +95,7 @@ Marca cada punto al completarlo para asegurar el cierre del nivel.
 - `../Vocabulario/Vocabulario3.md` para seguir repasando listas generales.  
 - `../Ejercicios/Ejercicio_NumerosFamilia.md` para consolidar numeros y parentescos.  
 - `../Gramatica/Pronombres.md` (si existe en tu vault) o tus propias notas para posesivos/objetos.  
-- Plantillas de diarios en Obsidian para continuar escribiendo sin depender de audio.
+- Plantillas de diarios en Obsidian para continuar escribiendo sin depender de recursos externos.
 
 ## Resumen de la leccion
 
