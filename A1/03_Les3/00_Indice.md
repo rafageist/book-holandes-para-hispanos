@@ -9,8 +9,10 @@ Indice local de `03_Les3`.
 
 ## Recursos vinculados
 - [Vocabulario - Numeros](../Vocabulario/Numeros.md)
-- [Ejercicio - Numeros 20-100](../Ejercicios/Ejercicio_Numeros20_100.md)
 - [Vocabulario - Comer y beber](../Vocabulario/ComerBeber.md)
+- [Pronunciacion - Consonantes](../Pronunciacion/Consonantes.md)
+- [Ejercicio - Numeros 20-100](../Ejercicios/Ejercicio_Numeros20_100.md)
+- [Ejercicio - Construccion de oraciones](../Ejercicios/Ejercicio_ConstructOraciones.md)
 
 ## Resumen rapido
-Esta unidad introduce la conjugacion regular en presente, el sistema numerico invertido (20-100) y vocabulario de comida/bebida. Usa los recursos vinculados para reforzar las listas de numeros y los menus antes de resolver los ejercicios de la leccion.
+Unidad centrada en la produccion activa: verbos `worden/denken/nadenken`, contrastes `praten/spreken` y `zorgen/oppassen`, numeros 20-100, trema y abreviaturas (`t/m`, `jl.`, `a.s.`), vocabulario de comida/bebida y la lectura guiada “Zwart Wit”. Usa las notas de pronunciacion y los ejercicios globales para afianzar la escritura y los dictados.

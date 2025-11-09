@@ -1,56 +1,65 @@
-﻿# Vocabulario – Leccion 3
+# Vocabulario - Les3
 
 ## Verbos clave
 
 | Verbo | Uso | Ejemplo |
 |-------|-----|---------|
-| `worden` | cambios de estado, “convertirse” | `Het huis wordt mooi`, `Ik wil docent worden`. |
-| `denken` | pensar en alguien / algo (opinión inmediata) | `Ik denk aan jou`, `Ik denk het wel/niet`. |
-| `nadenken (over)` | reflexionar con calma, analizar | `Ik denk over je voorstel na`, `Denk na!`. |
-| `praten` | conversar de forma informal | `Wij praten elke dag met de buren.` |
-| `spreken` | hablar un idioma / situación formal | `Ze spreekt goed Nederlands.` |
-| `zorgen voor` | cuidar, hacerse cargo | `Ik zorg voor de kinderen.` |
+| `worden` | cambios de estado, "convertirse" | `Het huis wordt mooi`, `Ik word moe`. |
+| `denken` | pensar u opinar | `Ik denk dat het regent`, `Ik denk aan jou`. |
+| `nadenken (over)` | reflexionar con calma | `Ik denk over je voorstel na`. |
+| `praten` | conversar informal | `Wij praten elke dag met de buren`. |
+| `spreken` | hablar un idioma o en registro formal | `Zij spreekt Nederlands op het werk`. |
+| `zorgen voor` | cuidar de forma continua | `Ik zorg voor de kinderen`. |
 | `oppassen op` | vigilar temporalmente | `Kun je op mijn hond oppassen?` |
 
-## Adjetivos y matices
+## Intensificadores y emociones
 
-- `heel`, `erg` → “muy”. Se anteponen al adjetivo (`heel klein`, `erg blij`).  
-- `veel` → “mucho/muchos”. Cuantifica sustantivos (`veel werk`, `veel mensen`).  
-- Combinaciones intensivas: `heel veel`, `erg veel`.  
-- Sentimientos positivos:
-  - `fijn` / `prettig` → agradable (situación, experiencia).  
-  - `gelukkig` → feliz/sentirse bendecido.  
-  - `blij` → contento en el momento.  
-- Cortesía básica: `alsjeblieft/alstublieft`, `dank je/dank u`, `graag gedaan`.
+| Palabra | Uso | Ejemplo |
+|---------|-----|---------|
+| `heel`, `erg` | "muy" antes de adjetivos | `heel klein`, `erg blij`. |
+| `veel` | mucho o muchos (sustantivos) | `veel werk`, `veel mensen`. |
+| `fijn`, `prettig` | agradable | `Het was een fijn gesprek`. |
+| `gelukkig` | afortunado o feliz | `Ik ben gelukkig met mijn werk`. |
+| `blij` | contento en el momento | `Ik ben blij vandaag`. |
+| `lekker` | agradable al gusto o los sentidos | `De soep is lekker`, `Het weer is lekker`. |
 
-## Comer y beber (resumen)
-
-Consulta `../Vocabulario/ComerBeber.md` para el listado completo. Palabras más usadas en Les3:
-
-- Alimentos: `het brood`, `de rijst`, `de groenten`, `de soep`, `de aardappelen`, `de kaas`, `de jam`, `de boter`.
-- Bebidas: `de thee`, `de koffie`, `het water`, `de wijn`, `het bier`, `de frisdrank`.
-- Comidas del día: `het ontbijt`, `de lunch`, `het avondeten`, `het tussendoortje`, `het dessert`.
-- Sabores: `zoet`, `zout`, `zuur`, `pikant`, `lekker`, `vers`.
-
-## Números y ordinales
+## Numeros y ordinales
 
 - Decenas: `twintig`, `dertig`, `veertig`, `vijftig`, `zestig`, `zeventig`, `tachtig`, `negentig`, `honderd`.
-- Sistema invertido: primero la unidad + `en` + la decena (`eenentwintig`, `achtentachtig`).
-- Ordinales: `eerste`, `tweede`, `derde`, luego raíz + `-de` / `-ste` (`vierde`, `twintigste`).  
-- Abreviatura: número + `e` (`15e`, `21e`).
+- Sistema invertido: `eenentwintig`, `vierendertig`, `negenenzeventig`, `achtentachtig`.
+- Ordinales: `eerste`, `tweede`, `derde`, `vierde`, `tiende`, `twintigste`, `eenentwintigste`.
+- Abreviaturas: `t/m`, `jl.`, `a.s.`, `15e` (quinceavo), `21e` (vigesimo primero).
 
-## Abreviaturas frecuentes (Offkortingen)
+## Comer y beber
 
-| Abrev. | Significado | Uso |
-|--------|-------------|-----|
-| `t/m` | `tot en met` | “hasta e incluyendo” (`open van maandag t/m vrijdag`). |
-| `tot` | `tot` | “hasta” (no incluye el último día). |
-| `jl.` | `jongstleden` | fecha reciente pasada (`2 september jl.`). |
-| `a.s.` | `aanstaande` | fecha próxima (`20 oktober a.s.`). |
+Consulta `../Vocabulario/ComerBeber.md` para el listado completo. Palabras mas usadas en Les3:
 
-## Lectura complementaria: "Zwart Wit"
+- **Alimentos**: `het brood`, `de rijst`, `de pasta`, `het vlees`, `de vis`, `de kip`, `de groenten`, `de soep`, `het fruit`, `de yoghurt`.
+- **Bebidas**: `de thee`, `de koffie`, `het water`, `de melk`, `de wijn`, `het bier`, `de frisdrank`.
+- **Comidas del dia**: `het ontbijt`, `de lunch`, `het avondeten`, `het tussendoortje`, `het dessert`.
+- **Sabores y adjetivos**: `zoet`, `zout`, `zuur`, `pikant`, `bitter`, `lekker`, `vers`.
 
-- **“Zwart Wit” – Frank Boeijen**  
-  Palabras útiles: `zwart` (negro), `wit` (blanco), `gelijk` (igual), `vrijheid` (libertad).  
-  Utiliza la letra transcrita (incluida en estas notas) para practicar consonantes finales y emociones básicas.
+## Trema y combinaciones
 
+- Escribe `reunie`, `cooperatie`, `ideeen`, `zeeen`, `tweeentwintig` y marca el trema sobre la segunda vocal cuando se pronuncian por separado (por ejemplo, indica en tu cuaderno que `reunie` lleva dos puntos sobre la segunda `e`).  
+- Anota tus propias palabras y resalta donde colocarias el trema.
+
+## Cortesia
+
+- `Alsjeblieft/Alstublieft` al ofrecer o pedir algo.  
+- `Dank je/dank u` -> `Graag gedaan`.  
+- Redacta tus dialogos escritos con estas formulas para normalizar el registro.
+
+## Lectura "Zwart Wit"
+
+Palabras clave para la lectura guiada:
+
+| Palabra | Espanol |
+|---------|---------|
+| `zwart` | negro |
+| `wit` | blanco |
+| `gelijk` | igual / igualdad |
+| `vrijheid` | libertad |
+| `schuld` | culpa |
+
+Anade las expresiones que identifiques en la letra y usalas en frases propias siguiendo el contexto de la unidad.
