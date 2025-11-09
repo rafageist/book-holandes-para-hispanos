@@ -1,40 +1,57 @@
-# Ejercicios - Leccion 6
+# Ejercicios - Les6
 
-## 1. Participios
+## 1. Participios y perfecto
 
-1. Completa una tabla con presente + participio para 12 verbos (6 regulares, 6 con prefijos o irregulares).  
-2. Redacta 8 oraciones con `hebben` y 4 con `zijn`. Incluye un complemento temporal (`gisteren`, `vorige week`).  
-3. Convierte tres oraciones a preguntas con interrogativos (`Wat heb je gekocht?`, `Waar ben je geweest?`).
+1. Completa una tabla con tres columnas: verbo infinitivo, participio, auxiliar (`hebben` o `zijn`). Llena al menos 12 filas (6 regulares, 6 con prefijos o irregulares).  
+2. Escribe 8 oraciones con `hebben` y 4 con `zijn`, siempre incluyendo un marcador temporal (`gisteren`, `vorige week`, `al`, `nog niet`).  
+3. Convierte tres oraciones afirmativas en preguntas con interrogativos (`Wat heb je gekocht?`, `Waar ben je geweest?`).
 
-## 2. Interrogativos
+## 2. Interrogativos en accion
 
-1. Haz una entrevista de 7 preguntas usando cada interrogativo una vez.  
-2. Escribe las respuestas en pasado usando participios.
+1. Disena una entrevista de siete preguntas usando cada interrogativo una vez (`wie`, `wat`, `waar`, `wanneer`, `waarom`, `hoe`, `hoeveel`).  
+2. Responde cada pregunta usando participios.  
+3. Subraya el verbo conjugado para verificar que queda en segunda posicion.
 
-## 3. Vocabulario del cuerpo
+## 3. Cuerpo y salud
 
-1. Dibuja una silueta y etiqueta 10 partes.  
-2. Redacta frases sobre salud/acciones (`Mijn knie doet pijn`, `Ik strek mijn armen elke ochtend`).  
-3. Usa verbos reflexivos simples (`Ik was me`, `Ik voel me moe`).
+1. Dibuja una silueta (o usa una lista simple) y etiqueta diez partes del cuerpo.  
+2. Redacta frases sobre sensaciones (`Mijn schouder doet pijn`, `Ik stretch mijn armen`).  
+3. Escribe dos recomendaciones en neerlandes para aliviar el malestar (`Ik rust tien minuten`, `Ik drink warm water`).
 
-## 4. Verbos de posición
+## 4. Verbos de posicion
 
-1. Describe 5 objetos de tu casa utilizando `staan`, `liggen`, `zitten`.  
-2. Cambia las frases a preguntas (`Waar staat de lamp?`).  
-3. Combina con adverbios de lugar (`naast`, `op`, `in`).
+1. Describe cinco objetos de tu casa usando `staan`, `liggen` o `zitten` junto con una preposicion (`De lamp staat naast de bank`).  
+2. Convierte cada descripcion en pregunta (`Waar staat de lamp?`).  
+3. Agrega respuestas cortas en perfecto (`Hij heeft de lamp naast de bank gezet`).
 
 ## 5. Opiniones
 
-1. Escribe un párrafo con `ik vind dat`, `volgens mij`, `ik ben het eens met`.  
-2. Incluye al menos dos adjetivos y una razón (`omdat`).  
-3. Relee en voz baja cuidando la entonación escrita.
+1. Escribe un parrafo con al menos tres frases de opinion (`Ik vind dat`, `Volgens mij`, `Ik ben het ermee eens`).  
+2. Incluye dos adjetivos y una razon con `omdat`.  
+3. Relee y corrige para mantener los verbos en segunda posicion.
 
-## 6. Texto “Goud”
+## 6. Lectura "Goud"
 
-1. Lee la letra y transcribe cuatro líneas.  
-2. Identifica tres participios en la letra.  
-3. Describe qué emoción te transmite y relaciónala con el vocabulario del cuerpo (`ik krijg kippenvel`).
+1. Copia cuatro versos de la letra y marca participios, palabras de valor (`goud`, `waardevol`) y emociones.  
+2. Escribe un resumen de tres frases en espanol.  
+3. Redacta dos oraciones en neerlandes que conecten cuerpo y emocion (`Ik krijg kippenvel wanneer ik aan mijn familie denk`).  
+4. Practica la pronunciacion de `ou` y `g` leyendo en voz alta.
 
-## 7. Lista de palabras difíciles
+## 7. Ejercicio de completar espacios
 
-Añade 5 participios irregulares, 5 partes del cuerpo y 3 expresiones de opinión a tu inventario NL→ES y ES→NL. Acompaña cada palabra con una oración escrita.
+Rellena con la forma correcta.
+
+1. `Ik ____ (heb/ben) gisteren naar de markt ____ (gaan/gegaan).`  
+2. `Waar ____ jij (hebben) gewoond voordat je hier kwam?`  
+3. `Mijn rug ____ (doet) pijn omdat ik lang heb ____ (zitten).`  
+4. `De boeken ____ (liggen) op de tafel en de plant ____ (staat) naast het raam.`  
+5. `Hoeveel vragen ____ jij al ____ (beantwoorden/beantwoord)?`  
+6. `Ik ben het ____ (mee) eens dat rust belangrijk is.`  
+7. `Volgens mij ____ deze oefening ___ (moeilijk) maar waardevol.`  
+8. `Waarom ____ je vandaag zo blij ____ (zijn)?`
+
+## 8. Lista de palabras dificiles
+
+1. Anade cinco participios irregulares, cinco partes del cuerpo y tres expresiones de opinion a tu inventario NL-ES y ES-NL.  
+2. Acompana cada palabra con una oracion propia y una nota de pronunciacion.  
+3. Revisa la lista al final de la semana y marca cuales ya dominas.

@@ -1,62 +1,58 @@
-# Vocabulario - Leccion 6
+# Vocabulario - Les6
 
-## Participio pasado (ejemplos)
+## Participio pasado
 
-| Verbo | Participio | Nota |
-|-------|------------|------|
-| werken | gewerkt | Regla general: ge + stam + t/d |
-| maken | gemaakt | termina en `-d` |
-| wonen | gewoond | |
-| bellen | gebeld | |
-| spelen | gespeeld | |
-| fietsen | gefietst | grupo `'t kofschip` |
-| verhuizen | verhuisd | prefijo `ver-` (sin `ge-`) |
-| begrijpen | begrepen | prefijo `be-` |
-| gaan | gegaan | con `zijn` |
-| komen | gekomen | con `zijn` |
-| worden | geworden | con `zijn` |
+| Verbo | Participio | Auxiliar | Nota |
+|-------|------------|----------|------|
+| werken | gewerkt | hebben | regla general `ge- + raiz + t/d` |
+| maken | gemaakt | hebben | termina en `-d` |
+| spelen | gespeeld | hebben | vocal larga mantiene `-d` |
+| fietsen | gefietst | hebben | consonantes de `'t kofschip` -> `-t` |
+| luisteren | geluisterd | hebben | participio en `-d` |
+| verhuizen | verhuisd | hebben | prefijo inseparable, sin `ge-` |
+| begrijpen | begrepen | hebben | prefijo inseparable |
+| studeren | gestudeerd | hebben | verbos en `-eren` excluyen una `e` |
+| gaan | gegaan | zijn | movimiento |
+| komen | gekomen | zijn | movimiento |
+| worden | geworden | zijn | cambio de estado |
+
+Prefijos inseparables: `be-`, `ge-` (como prefijo real), `her-`, `ont-`, `ver-`. Con ellos se omite `ge-` adicional (`begrijpen -> begrepen`).
 
 ## Interrogativos
 
 `wie`, `wat`, `waar`, `wanneer`, `waarom`, `hoe`, `hoeveel`.  
-Frases modelo:
-- `Wie heeft mijn boek gezien?`
-- `Wat heb je gisteren gedaan?`
-- `Waar woon je?`
-- `Wanneer ga je op vakantie?`
-- `Waarom ben je laat?`
-- `Hoe gaat het?`
-- `Hoeveel kost deze jas?`
+Frases modelo:  
+`Wie heeft dat gezegd?`  
+`Wat heb je gedaan?`  
+`Waar woon je nu?`  
+`Wanneer begint de film?`  
+`Waarom ben je te laat?`  
+`Hoe voel je je vandaag?`  
+`Hoeveel kost dit boek?`
 
-## Cuerpo y salud
+## Partes del cuerpo
 
 `het hoofd`, `het gezicht`, `de nek`, `de schouder`, `de arm`, `de elleboog`, `de pols`, `de hand`, `de vinger`, `de duim`, `de nagel`, `de borst`, `de rug`, `de buik`, `de heup`, `de knie`, `het been`, `de enkel`, `de voet`, `de teen`.  
-Acciones: `ademen`, `strekken`, `knipperen`, `zwaaien`, `lopen`, `rennen`.  
-Frases: `Mijn rug doet pijn`, `Ik was mijn handen`, `Ik heb koude voeten`.
+Verbos: `ademen`, `strekken`, `knipperen`, `zwaaien`, `lopen`, `rennen`, `rusten`.  
+Frases: `Mijn rug doet pijn`, `Ik stretch mijn armen elke ochtend`, `Ik was mijn handen`.
 
-## Verbos de posición
+## Verbos de posicion
 
 | Verbo | Uso | Ejemplo |
 |-------|-----|---------|
-| `staan` | estar de pie / objetos verticales | `De plant staat voor het raam.` |
-| `liggen` | estar acostado / objetos que yacen | `Het boek ligt op de tafel.` |
-| `zitten` | estar sentado / contenido | `Ik zit op de stoel`, `Er zit water in de fles.` |
+| `staan` | objetos verticales, personas de pie | `De plant staat naast het raam.` |
+| `liggen` | objetos acostados, personas tumbadas | `De hond ligt op de bank.` |
+| `zitten` | personas sentadas, contenido | `Ik zit op de stoel`, `Er zit melk in de fles.` |
 
-## Opiniones
+Preposiciones utiles: `op`, `in`, `onder`, `naast`, `voor`, `achter`, `tussen`.
 
-Expresiones útiles:
-- `Ik vind dat...`
-- `Volgens mij...`
-- `Ik denk dat...`
-- `Ik ben het ermee eens / Ik ben het er niet mee eens`
+## Opiniones y adjetivos
 
-Adjetivos: `leuk`, `saai`, `moeilijk`, `interessant`, `belangrijk`, `heerlijk`.
+Expresiones: `Ik vind dat...`, `Volgens mij...`, `Ik denk dat...`, `Ik ben het ermee eens`, `Ik ben het er niet mee eens`.  
+Adjetivos: `leuk`, `saai`, `moeilijk`, `interessant`, `belangrijk`, `heerlijk`, `gezond`, `lastig`, `waardevol`.  
+Ejemplos: `Ik vind dat Nederlands interessant is`, `Volgens mij is rust heel belangrijk`.
 
-Ejemplos:
-- `Ik vind dat Nederlands interessant is.`
-- `Volgens mij is deze film te lang.`
+## Lexico del texto "Goud"
 
-## Léxico del texto “Goud”
-
-Palabras clave: `goud` (oro), `waardevol` (valioso), `gevoelens`, `vrij`, `gelukkig`, `moment`, `dromen`.  
-Úsalas para describir cómo te sientes: `Ik voel me gelukkig`, `Dit moment is goud waard`.
+Palabras clave: `goud` (oro), `waardevol` (valioso), `moment`, `gevoel`, `vrij`, `droom`, `kippenvel`.  
+Usalas para describir emociones: `Dit moment is goud waard`, `Ik krijg kippenvel`, `Ik voel me vrij`.
