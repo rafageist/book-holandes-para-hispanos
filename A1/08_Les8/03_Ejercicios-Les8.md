@@ -2,9 +2,14 @@
 
 ## 1. Preguntas finales
 
-1. Convierte seis oraciones en preguntas. Incluye dos con complemento temporal al inicio y dos con interrogativos que contienen sustantivos.  
-2. Comprueba el orden verbo-sujeto en cada caso.  
-3. Escribe las respuestas para verificar coherencia.
+\begin{questionbox}
+\textbf{Convierte y revisa}
+\begin{enumerate}
+\item Convierte seis oraciones en preguntas. Incluye dos con complemento temporal al inicio y dos con interrogativos que incluyen sustantivos.
+\item Comprueba el orden verbo-sujeto en cada caso.
+\item Escribe las respuestas para verificar coherencia y comparar con tus apuntes.
+\end{enumerate}
+\end{questionbox}
 
 ## 2. Pronombres posesivos y objeto
 

@@ -195,8 +195,13 @@ El apellido Oranje-Nassau y el color naranja se asocian con celebraciones nacion
 
 ## Errores comunes
 
-- **Olvidar duplicar consonantes** al conjugar verbos con vocal corta (`leggen` -> `ik leg`, `jij legt`).  
-- **Confundir `praten` y `spreken`**: usa `spreken` para idiomas o registros formales.  
-- **Omitir el trema** en palabras con vocales contiguas (escribe `idee-en` para recordar donde va el signo).  
-- **Traducir literalmente intensificadores**: `mucho calor` no es `veel warm` sino `het is heel warm`.  
-- **Escribir números compuestos sin `en`**: recuerda `vijfenvijftig` (cinco y cincuenta) y no `vijfen vijftig`.
+\begin{warningbox}
+\textbf{Errores comunes}
+\begin{itemize}
+\item Olvidar duplicar consonantes al conjugar verbos con vocal corta (`leggen` $\rightarrow$ `ik leg`, `jij legt`).
+\item Confundir `praten` y `spreken`: usa `spreken` para idiomas o registros formales.
+\item Omitir el trema en palabras con vocales contiguas (escribe `idee-en` para recordar donde va el signo).
+\item Traducir literalmente intensificadores: `mucho calor` no es `veel warm` sino `het is heel warm`.
+\item Escribir números compuestos sin `en`: recuerda `vijfenvijftig` (cinco y cincuenta) y no `vijfen vijftig`.
+\end{itemize}
+\end{warningbox}

@@ -82,7 +82,9 @@ La clase usa la letra de **“Onderweg”** (Abel) como lectura motivacional. En
 3. Localiza al menos dos verbos (`ik wil`, `ik ben`) y crea frases propias con el mismo tiempo verbal.  
 4. Cierra con un mensaje personal inspirado en la cancion: `Ik ga onderweg naar ...` + una frase en español donde describas la meta.
 
-> **Tip:** agrega esta actividad a tu rutina semanal. Cada vez que repases vocales largas, lee la letra y confirma que sigues aplicando la regla de una consonante (larga) vs dos consonantes (corta).
+\begin{tipbox}
+Agrega esta actividad a tu rutina semanal. Cada vez que repases vocales largas, lee la letra y confirma que sigues aplicando la regla de una consonante (larga) frente a dos consonantes (corta).
+\end{tipbox}
 
 ## Práctica en la vida diaria
 
