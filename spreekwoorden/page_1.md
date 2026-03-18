@@ -1,4 +1,4 @@
-# Vergelijkingen – Imagen 2
+# Vergelijkingen – Imagen 1
 
 ## Vergelijkingen (1–45)
 
