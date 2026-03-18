@@ -1,4 +1,4 @@
-# Spreekwoorden – Imagen 1
+# Spreekwoorden – Imagen 8
 
 | No. | Spreekwoord | Betekenis |
 |---|---|---|
